@@ -73,10 +73,11 @@ const main = async () => {
 
 const loadOpusList = async () => {
     const opusList = await fetch("opus.txt").then(r => r.text());
-    const items = opusList.split("\n").map(line => line.trim()).filter(line => line !== "").map(line => {
-        const year = parseInt(line.slice(line.length - 5, line.length - 1));
+    const items = opusList.split("\n").filter(line => line.trim() !== "").map(line => {
+        const title = line.trim();
+        const year = parseInt(title.slice(title.length - 5, title.length - 1));
         const isSubItem = line.startsWith("    ");
-        return { title: line.trim(), year, isSubItem };
+        return { title: title, year, isSubItem };
     }).filter(item => !item.title.includes("arrangement"));
 
     const nestedItems = [];
