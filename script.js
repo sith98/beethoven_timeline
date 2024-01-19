@@ -1,4 +1,5 @@
-const ASPECT_RATIO = 7;
+const minWidth = 1000;
+const aspectRatio = 7;
 
 const start = 1791;
 const end = 1827;
@@ -142,8 +143,10 @@ const findHoveredOpus = (opusList, pos) => {
 
 
 const updateCanvasDimensions = (canvas) => {
-    canvas.width = window.innerWidth;
-    canvas.height = canvas.width / ASPECT_RATIO;
+    canvas.width = Math.max(minWidth, window.innerWidth);
+    canvas.height = canvas.width / aspectRatio;
+    canvas.style.width = `${window.innerWidth}px`;
+    canvas.style.height = `${window.innerWidth / aspectRatio}px`;
 }
 
 const draw = (canvas, ctx, opusList, hoveredOpus) => {
