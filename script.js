@@ -1,12 +1,12 @@
 const minWidth = 1000;
-const aspectRatio = 7;
+const aspectRatio = 6.5;
 
 const start = 1791;
 const end = 1827;
 const nYears = end - start + 1;
 const radius = 0.07;
 
-const dotsPosition = 0.8;
+const dotsPosition = 0.76;
 
 const beginMiddle = 1804;
 const beginLate = 1815;
@@ -173,7 +173,7 @@ const drawBackground = (canvas, ctx) => {
     ctx.fillRect((beginLate - start) * yearWidth, 0, (end - beginLate + 1) * yearWidth, canvas.height);
 
     // draw vertical lines
-    ctx.strokeStyle = "#b0c0c0";
+    ctx.strokeStyle = "#b0b0b0";
     ctx.lineWidth = 1;
     for (let i = 0; i < nYears; i++) {
         const x = i * yearWidth;
@@ -181,6 +181,18 @@ const drawBackground = (canvas, ctx) => {
         ctx.moveTo(x, 0);
         ctx.lineTo(x, canvas.height);
         ctx.stroke();
+    }
+
+    // draw years
+    ctx.fillStyle = "#999";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.font = `${yearWidth * 0.3}px sans-serif`;
+
+    for (let i = 0; i < nYears; i++) {
+        const x = i * yearWidth;
+        const year = start + i;
+        ctx.fillText(year, x + yearWidth * 0.5, canvas.height * 0.95);
     }
 };
 
