@@ -1,37 +1,68 @@
 const minWidth = 1000;
 const aspectRatio = 6.5;
 
-const start = 1791;
-const end = 1827;
-const nYears = end - start + 1;
-const radius = 0.07;
+let start = 1791;
+let end = 1827;
+let nYears = end - start + 1;
+const radius = 0.0025
 
-const dotsPosition = 0.76;
+const dotsPosition = 0.85;
 
 const beginMiddle = 1804;
 const beginLate = 1815;
 
 const Type = Object.freeze({
-    SYMPHONY: "symphony no",
-    STRING_QUARTET: "string quartet",
-    VARIATION: "variation",
-    PIANO_SONATA: "piano sonata",
-    PIANO_CONCERTO: "piano concerto",
-    PIANO_TRIO: "piano trio",
-    CELLO_SONATA: "cello sonata",
-    OTHER: "",
+    KEYBOARD: "Keyboard",
+    CHAMBER: "Chamber",
+    ORCHESTRAL: "Orchestral",
+    VOCAL: "Vocal",
+    STAGE: "Stage",
+    CONCERTO: "Concerto",
+    STRING_QUARTET: "Quartet",
+    PIANO_CHAMBER: "Piano Chamber",
+    SYMPHONY: "Symphony",
+    PIANO_SONATA: "Sonata",
+    SERENADE: "Serenade",
+    STRING_QUINTET: "String Quintet",
+    PIANO_CONCERTO: "Piano Concerto",
+    VIOLIN_SONATA: "Violin Sonata"
+    // OTHER: "",
 });
 const defaultType = Type.OTHER;
 const colors = {
-    [Type.STRING_QUARTET]: "green",
-    [Type.PIANO_SONATA]: "#d00000",
-    [Type.VARIATION]: "yellow",
-    [Type.SYMPHONY]: "blue",
-    [Type.PIANO_CONCERTO]: "purple",
-    [Type.PIANO_TRIO]: "orange",
-    [Type.CELLO_SONATA]: "orangered",
-    [Type.OTHER]: "#999",
+    [Type.KEYBOARD]: "crimson",
+    [Type.CHAMBER]: "green",
+    [Type.ORCHESTRAL]: "yellow",
+    [Type.VOCAL]: "blue",
+    [Type.STAGE]: "purple",
+    [Type.CONCERTO]: "orange",
+    [Type.STRING_QUARTET]: "mediumblue",
+    [Type.PIANO_CHAMBER]: "darkcyan",
+    [Type.SYMPHONY]: "black",
+    [Type.PIANO_SONATA]: "crimson",
+    [Type.SERENADE]: "goldenrod",
+    [Type.STRING_QUINTET]: "midnightblue",
+    [Type.PIANO_CONCERTO]: "orangered",
+    [Type.VIOLIN_SONATA]: "green",
+    // [Type.OTHER]: "#999",
 };
+
+const order = [
+    Type.STAGE,
+    Type.SYMPHONY,
+    Type.PIANO_CONCERTO,
+    Type.CONCERTO,
+    Type.PIANO_SONATA,
+    Type.STRING_QUARTET,
+    Type.STRING_QUINTET,
+    Type.PIANO_CHAMBER,
+    Type.VIOLIN_SONATA,
+    Type.SERENADE,
+    Type.CHAMBER,
+    Type.ORCHESTRAL,
+    Type.KEYBOARD,
+    Type.VOCAL
+]
 
 const overrideToDefault = [
     "Op. 118",
@@ -44,8 +75,45 @@ const main = async () => {
     const ctx = canvas.getContext("2d");
 
     // load opus list
-    const opusList = await loadOpusList();
-    setOpusTypes(opusList);
+    const opusList = await fetch("mozart_works.json").then(res => res.json());
+    // setOpusTypes(opusList);
+    start = Infinity;
+    end = -Infinity;
+    const genres = new Set();
+    for (const opus of opusList) {
+        opus.year = opus.date;
+        opus.type = opus.genre;
+        if (opus.title.includes("Piano Concerto")) {
+            opus.type = Type.PIANO_CONCERTO;
+        } else if (opus.title.includes("Concerto")) {
+            opus.type = Type.CONCERTO;
+        } else if (opus.title.includes("String Quartet")) {
+            opus.type = Type.STRING_QUARTET;
+        } else if (opus.title.includes("Violin Sonata")) {
+            opus.type = Type.VIOLIN_SONATA;
+        } else if (opus.title.includes("Symphony")) {
+            opus.type = Type.SYMPHONY;
+        } else if (opus.type === Type.KEYBOARD && opus.title.includes("Sonata")) {
+            opus.type = Type.PIANO_SONATA;
+        } else if (opus.type === Type.CHAMBER && opus.forces.includes("pf")) {
+            opus.type = Type.PIANO_CHAMBER;
+        } else if (opus.title.includes("Serenade")) {
+            opus.type = Type.SERENADE;
+        } else if (opus.title.includes("String Quintet")) {
+            opus.type = Type.STRING_QUINTET;
+        }
+
+        genres.add(opus.genre)
+        start = Math.min(start, opus.year)
+        end = Math.max(end, opus.year)
+        opus.subItems = [];
+    }
+    start -= 1;
+    end += 1;
+    nYears = end - start + 1;
+
+    console.log(genres)
+
     setOpusXPositions(opusList);
     opusList.sort((a, b) => a.x - b.x);
 
@@ -62,7 +130,7 @@ const main = async () => {
     let hoveredOpus = null;
     const loop = () => {
         updateCanvasDimensions(canvas);
-        const newHoveredOpus = findHoveredOpus(opusList, pos);
+        const newHoveredOpus = findHoveredOpus(canvas, opusList, pos);
         if (newHoveredOpus !== null) {
             hoveredOpus = newHoveredOpus;
         }
@@ -109,32 +177,50 @@ const setOpusTypes = (opusList) => {
 }
 
 const setOpusXPositions = (opusList) => {
+    const types = new Set();
     const opusByYear = {};
     for (const opus of opusList) {
+        types.add(opus.type);
         if (!(opus.year in opusByYear)) {
-            opusByYear[opus.year] = [];
+            opusByYear[opus.year] = {};
         }
-        opusByYear[opus.year].push(opus);
+        if (!(opus.type in opusByYear[opus.year])) {
+            opusByYear[opus.year][opus.type] = [];
+        }
+        opusByYear[opus.year][opus.type].push(opus);
     }
 
+    const typesList = Array.from(types);
+    typesList.sort();
+
     const yearWidth = 1 / nYears;
-    for (const [year, opusList] of Object.entries(opusByYear)) {
-        const startX = (year - start) * yearWidth;
-        const step = yearWidth / opusList.length;
-        let x = startX;
-        for (const opus of opusList) {
-            opus.x = x;
-            x += step;
+
+    const typeToY = {}
+    for (const [index, type] of order.entries()) {
+        typeToY[type] = dotsPosition - (order.length - index - 1) * yearWidth;
+    }
+
+    for (const [year, opusByType] of Object.entries(opusByYear)) {
+        for (const opusList of Object.values(opusByType)) {
+            const startX = (year - start) * yearWidth;
+            const step = yearWidth / opusList.length;
+            let x = startX;
+            for (const opus of opusList) {
+                opus.x = x;
+                opus.y = typeToY[opus.type];
+                x += step;
+            }
         }
     }
 }
 
-const findHoveredOpus = (opusList, pos) => {
-    const width = 1 / nYears;
+const findHoveredOpus = (canvas, opusList, pos) => {
+    console.log(pos)
     for (const opus of opusList) {
         const x = opus.x;
-        const dx = Math.abs(pos.x - x);
-        if (dx < radius * width) {
+        const y = opus.y;
+        const dx = (pos.x - x) ** 2 + ((pos.y - y) / canvas.width * canvas.height) ** 2;
+        if (dx < radius ** 2) {
             return opus;
         }
     }
@@ -163,14 +249,6 @@ const drawBackground = (canvas, ctx) => {
 
     const width = canvas.width;
     const yearWidth = width / nYears;
-
-
-    // draw middle rect
-    ctx.fillStyle = "#e0e0e0";
-    ctx.fillRect((beginMiddle - start) * yearWidth, 0, (beginLate - beginMiddle) * yearWidth, canvas.height);
-    // draw late rect
-    ctx.fillStyle = "#d7d7d7";
-    ctx.fillRect((beginLate - start) * yearWidth, 0, (end - beginLate + 1) * yearWidth, canvas.height);
 
     // draw vertical lines
     ctx.strokeStyle = "#b0b0b0";
@@ -204,26 +282,22 @@ const drawOpusList = (canvas, ctx, opusList, hoveredOpus) => {
     const width = canvas.width;
 
     for (const opus of opusList) {
-        const x = opus.x * width;
         // draw circle
         // draw circles of other types half transparent
         ctx.globalAlpha = opus.type === hoveredType || hoveredType === null || hoveredType === defaultType ? 1 : 0.3;
         ctx.fillStyle = colors[opus.type];
 
-        const nCircles = Math.max(1, opus.subItems.length);
-
-        for (let i = 0; i < nCircles; i++) {
-            const y = yPos + i * width / nYears * radius * 2;
-            ctx.beginPath();
-            ctx.arc(x, y, width / nYears * radius, 0, 2 * Math.PI);
-            ctx.fill();
-        }
+        const x = opus.x * canvas.width;
+        const y = opus.y * canvas.height;
+        ctx.beginPath();
+        ctx.arc(x, y, width * radius, 0, 2 * Math.PI);
+        ctx.fill();
     }
 
     // draw arrow above hovered opus
     if (hoveredOpus !== null) {
         const x = hoveredOpus.x * width;
-        const y = yPos - width / nYears * radius * 2;
+        const y = hoveredOpus.y * canvas.height - width / nYears * radius * 2;
         const arrowWidth = width / nYears * 0.1;
         const arrowHeight = width / nYears * 0.2;
         ctx.globalAlpha = 1;
@@ -257,10 +331,9 @@ const drawText = (canvas, ctx, hoveredOpus) => {
 
     const subItemFontSize = fontSize * 0.8;
     ctx.font = `${subItemFontSize}px sans-serif`;
-    for (let i = 0; i < hoveredOpus.subItems.length; i++) {
-        const subItem = hoveredOpus.subItems[i];
+    for (let [i, text] of [hoveredOpus.k, hoveredOpus.key, hoveredOpus.forces].filter(t => t != "").entries()) {
         const y = yPos + (i + 1) * subItemFontSize * 1.2;
-        ctx.fillText(subItem.title, xPos, y);
+        ctx.fillText(text, xPos, y);
     }
 }
 
