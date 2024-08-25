@@ -42,7 +42,8 @@
             "notes": "No.5 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Minuet_in_G_major,_K.1/1e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 1"
         },
         {
             "k": "2",
@@ -54,7 +55,8 @@
             "notes": "No.7 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Minuet_in_F_major,_K.2_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 2"
         },
         {
             "k": "3",
@@ -66,7 +68,8 @@
             "notes": "No.8 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Allegro_in_B-flat_major,_K.3_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 3"
         },
         {
             "k": "4",
@@ -78,7 +81,8 @@
             "notes": "No.9 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Minuet_in_F_major,_K.4_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 4"
         },
         {
             "k": "5",
@@ -90,7 +94,8 @@
             "notes": "No.10 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Minuet_in_F_major,_K.5_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 5"
         },
         {
             "k": "9a",
@@ -102,7 +107,8 @@
             "notes": "No.11 in Nannerl's Music Book",
             "link": "https://imslp.org/wiki/Allegro_in_C_major,_K.9a/5a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 9a"
         },
         {
             "k": "6",
@@ -114,7 +120,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_K.6_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1762
+            "year": 1762,
+            "id": "K. 6"
         },
         {
             "k": "7",
@@ -126,7 +133,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_K.7_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 7"
         },
         {
             "k": "8",
@@ -138,7 +146,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.8_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1763
+            "year": 1763,
+            "id": "K. 8"
         },
         {
             "k": "9",
@@ -150,7 +159,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_K.9_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 9"
         },
         {
             "k": "10",
@@ -162,7 +172,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.10_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 10"
         },
         {
             "k": "11",
@@ -174,7 +185,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_K.11_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 11"
         },
         {
             "k": "12",
@@ -186,7 +198,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_A_major,_K.12_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 12"
         },
         {
             "k": "13",
@@ -198,7 +211,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_K.13_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 13"
         },
         {
             "k": "14",
@@ -210,7 +224,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_K.14_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 14"
         },
         {
             "k": "15",
@@ -222,7 +237,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.15_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 15"
         },
         {
             "k": "16",
@@ -234,7 +250,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.1_in_E-flat_major,_K.16_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1764
+            "year": 1764,
+            "id": "K. 16"
         },
         {
             "k": "19",
@@ -246,7 +263,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.4_in_D_major,_K.19_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 19"
         },
         {
             "k": "21",
@@ -258,7 +276,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Va,_dal_furor_portata,_K.21/19c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1765
+            "year": 1765,
+            "id": "K. 21"
         },
         {
             "k": "20",
@@ -270,7 +289,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/God_is_Our_Refuge,_K.20_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1765
+            "year": 1765,
+            "id": "K. 20"
         },
         {
             "k": "22",
@@ -282,7 +302,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.5_in_B-flat_major,_K.22_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1765
+            "year": 1765,
+            "id": "K. 22"
         },
         {
             "k": "23",
@@ -294,7 +315,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Conservati_fedele,_K.23_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 23"
         },
         {
             "k": "24",
@@ -306,7 +328,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/8_Variations_on_%22Laat_ons_juichen%22,_K.24_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 24"
         },
         {
             "k": "25",
@@ -318,7 +341,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/7_Variations_on_%22Willem_von_Nassau%22,_K.25_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 25"
         },
         {
             "k": "26",
@@ -330,7 +354,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_E-flat_major,_K.26_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 26"
         },
         {
             "k": "27",
@@ -342,7 +367,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_K.27_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 27"
         },
         {
             "k": "28",
@@ -354,7 +380,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_K.28_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 28"
         },
         {
             "k": "29",
@@ -366,7 +393,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_K.29_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 29"
         },
         {
             "k": "30",
@@ -378,7 +406,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_K.30_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 30"
         },
         {
             "k": "31",
@@ -390,7 +419,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.31_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 31"
         },
         {
             "k": "32",
@@ -402,7 +432,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Galimathias_musicum,_K.32_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 32"
         },
         {
             "k": "33",
@@ -414,7 +445,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Kyrie_in_F_major,_K.33_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 33"
         },
         {
             "k": "36",
@@ -426,7 +458,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Or_che_il_dover,_K.36/33i_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 36"
         },
         {
             "k": "34",
@@ -438,7 +471,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Scande_coeli_limina,_K.34_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 34"
         },
         {
             "k": "35",
@@ -450,7 +484,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Schuldigkeit_des_ersten_Gebotes,_K.35_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 35"
         },
         {
             "k": "42",
@@ -462,7 +497,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Grabmusik,_K.42/35a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 42"
         },
         {
             "k": "37",
@@ -474,7 +510,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.1_in_F_major,_K.37_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 37"
         },
         {
             "k": "38",
@@ -486,7 +523,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Apollo_et_Hyacinthus,_K.38_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 38"
         },
         {
             "k": "39",
@@ -498,7 +536,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.2_in_B-flat_major,_K.39_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 39"
         },
         {
             "k": "40",
@@ -510,7 +549,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.3_in_D_major,_K.40_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 40"
         },
         {
             "k": "41",
@@ -522,7 +562,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.4_in_G_major,_K.41_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 41"
         },
         {
             "k": "67",
@@ -534,7 +575,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_E-flat_major,_K.67/41h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 67"
         },
         {
             "k": "68",
@@ -546,7 +588,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_B-flat_major,_K.68/41i_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 68"
         },
         {
             "k": "69",
@@ -558,7 +601,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.69/41k_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 69"
         },
         {
             "k": "76",
@@ -570,7 +614,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.43_in_F_major,_K.76/42a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 76"
         },
         {
             "k": "43",
@@ -582,7 +627,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.6_in_F_major,_K.43_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 43"
         },
         {
             "k": "45",
@@ -594,7 +640,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.7_in_D_major,_K.45_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 45"
         },
         {
             "k": "51",
@@ -606,7 +653,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/La_finta_semplice,_K.51/46a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 51"
         },
         {
             "k": "50",
@@ -618,7 +666,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Bastien_und_Bastienne,_K.50/46b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 50"
         },
         {
             "k": "52",
@@ -630,7 +679,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Daphne,_deine_Rosenwangen,_K.52/46c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 52"
         },
         {
             "k": "47",
@@ -642,7 +692,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Veni_Sancte_Spiritus,_K.47_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 47"
         },
         {
             "k": "139",
@@ -654,7 +705,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_solemnis_in_C_minor,_K.139/47a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 139"
         },
         {
             "k": "49",
@@ -666,7 +718,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_G_major,_K.49/47d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 49"
         },
         {
             "k": "53",
@@ -678,7 +731,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/An_die_Freude,_K.53/47e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 53"
         },
         {
             "k": "48",
@@ -690,7 +744,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.8_in_D_major,_K.48_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1768
+            "year": 1768,
+            "id": "K. 48"
         },
         {
             "k": "65",
@@ -702,7 +757,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_D_minor,_K.65/61a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 65"
         },
         {
             "k": "70",
@@ -714,7 +770,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/A_Berenice,_K.70/61c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1767
+            "year": 1767,
+            "id": "K. 70"
         },
         {
             "k": "103",
@@ -726,7 +783,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/20_Minuets,_K.103/61d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 103"
         },
         {
             "k": "104",
@@ -738,7 +796,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Minuets,_K.104/61e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 104"
         },
         {
             "k": "105",
@@ -750,7 +809,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Minuets,_K.105/61f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 105"
         },
         {
             "k": "62",
@@ -762,7 +822,8 @@
             "notes": "",
             "link": "",
             "type": "Orchestral",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 62"
         },
         {
             "k": "100",
@@ -774,7 +835,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cassation_in_D_major,_K.100/62a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 100"
         },
         {
             "k": "63",
@@ -786,7 +848,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cassation_in_G_major,_K.63_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 63"
         },
         {
             "k": "99",
@@ -798,7 +861,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cassation_in_B-flat_major,_K.99/63a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 99"
         },
         {
             "k": "66",
@@ -810,7 +874,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mass_in_C_major,_K.66_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 66"
         },
         {
             "k": "117",
@@ -822,7 +887,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Benedictus_sit_Deus,_K.117/66a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 117"
         },
         {
             "k": "141",
@@ -834,7 +900,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Te_Deum_in_C_major,_K.141/66b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1769
+            "year": 1769,
+            "id": "K. 141"
         },
         {
             "k": "143",
@@ -846,7 +913,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ergo_interest,_K.143/73a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 143"
         },
         {
             "k": "78",
@@ -858,7 +926,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Per_piet%C3%A0,_bell%27idol_mio,_K.78/73b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 78"
         },
         {
             "k": "88",
@@ -870,7 +939,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Fra_cento_affanni,_K.88/73c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 88"
         },
         {
             "k": "79",
@@ -882,7 +952,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/O_temerario_Arbace,_K.79/73d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1766
+            "year": 1766,
+            "id": "K. 79"
         },
         {
             "k": "77",
@@ -894,7 +965,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Misero_me,_K.77/73e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 77"
         },
         {
             "k": "80",
@@ -906,7 +978,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.1_in_G_major,_K.80/73f_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 80"
         },
         {
             "k": "123",
@@ -918,7 +991,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_B-flat_major,_K.123/73g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 123"
         },
         {
             "k": "94",
@@ -930,7 +1004,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Minuet_in_D_major,_K.94/73h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 94"
         },
         {
             "k": "89",
@@ -942,7 +1017,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Kyrie_in_G_major,_K.89/73k_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 89"
         },
         {
             "k": "81",
@@ -954,7 +1030,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.44_in_D_major,_K.81/73l_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 81"
         },
         {
             "k": "97",
@@ -966,7 +1043,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.47_in_D_major,_K.97/73m_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 97"
         },
         {
             "k": "95",
@@ -978,7 +1056,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.45_in_D_major,_K.95/73n_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 95"
         },
         {
             "k": "82",
@@ -990,7 +1069,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Se_ardire,_e_speranza,_K.82/73o_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 82"
         },
         {
             "k": "83",
@@ -1002,7 +1082,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Se_tutti_i_mali_miei,_K.83/73p_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 83"
         },
         {
             "k": "84",
@@ -1014,7 +1095,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.11_in_D_major,_K.84/73q_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 84"
         },
         {
             "k": "85",
@@ -1026,7 +1108,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Miserere_in_A_minor,_K.85/73s_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 85"
         },
         {
             "k": "122",
@@ -1038,7 +1121,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Minuet_in_E-flat_major,_K.122/K.73t_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 122"
         },
         {
             "k": "44",
@@ -1050,7 +1134,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cibavit_eos,_K.44/73u_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 44"
         },
         {
             "k": "86",
@@ -1062,7 +1147,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Quaerite_primum_regnum_Dei,_K.86/73v_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 86"
         },
         {
             "k": "74",
@@ -1074,7 +1160,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.10_in_G_major,_K.74_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 74"
         },
         {
             "k": "87",
@@ -1086,7 +1173,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mitridate,_r%C3%A8_di_Ponto,_K.87/74a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 87"
         },
         {
             "k": "118",
@@ -1098,7 +1186,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/La_Betulia_liberata,_K.118/74c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 118"
         },
         {
             "k": "108",
@@ -1110,7 +1199,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Regina_Coeli_in_C_major,_K.108/74d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 108"
         },
         {
             "k": "109",
@@ -1122,7 +1212,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Litaniae_Lauretanae,_K.109/74e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 109"
         },
         {
             "k": "72",
@@ -1134,7 +1225,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Inter_natos_mulierum,_K.72/74f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 72"
         },
         {
             "k": "75",
@@ -1146,7 +1238,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.42_in_F_major,_K.75_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 75"
         },
         {
             "k": "73",
@@ -1158,7 +1251,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.9_in_C_major,_K.73_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1770
+            "year": 1770,
+            "id": "K. 73"
         },
         {
             "k": "110",
@@ -1170,7 +1264,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.12_in_G_major,_K.110/75b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 110"
         },
         {
             "k": "111",
@@ -1182,7 +1277,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ascanio_in_Alba,_K.111_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 111"
         },
         {
             "k": "120",
@@ -1194,7 +1290,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.48_in_D_major,_K.120/111a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 120"
         },
         {
             "k": "96",
@@ -1206,7 +1303,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.46_in_C_major,_K.96/111b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 96"
         },
         {
             "k": "112",
@@ -1218,7 +1316,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.13_in_F_major,_K.112_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 112"
         },
         {
             "k": "113",
@@ -1230,7 +1329,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.113_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 113"
         },
         {
             "k": "114",
@@ -1242,7 +1342,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.14_in_A_major,_K.114_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 114"
         },
         {
             "k": "381",
@@ -1254,7 +1355,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_D_major,_K.381/123a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 381"
         },
         {
             "k": "124",
@@ -1266,7 +1368,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.15_in_G_major,_K.124_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 124"
         },
         {
             "k": "144",
@@ -1278,7 +1381,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.144/124a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 144"
         },
         {
             "k": "145",
@@ -1290,7 +1394,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.145/124b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 145"
         },
         {
             "k": "125",
@@ -1302,7 +1407,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Litaniae_de_venerabili_altaris_sacramento,_K.125_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 125"
         },
         {
             "k": "136",
@@ -1314,7 +1420,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_D_major,_K.136/125a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 136"
         },
         {
             "k": "137",
@@ -1326,7 +1433,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.137/125b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 137"
         },
         {
             "k": "138",
@@ -1338,7 +1446,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_F_major,_K.138/125c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 138"
         },
         {
             "k": "151",
@@ -1350,7 +1459,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Zufriedenheit_im_niedrigen_Stande,_K.151/125f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 151"
         },
         {
             "k": "147",
@@ -1362,7 +1472,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Wie_ungl%C3%BCcklich_bin_ich_nit,_K.147/125g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 147"
         },
         {
             "k": "148",
@@ -1374,7 +1485,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Lobegesang_auf_die_feierliche_Johannisloge,_K.148/125h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 148"
         },
         {
             "k": "126",
@@ -1386,7 +1498,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Il_sogno_di_Scipione,_K.126_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1771
+            "year": 1771,
+            "id": "K. 126"
         },
         {
             "k": "127",
@@ -1398,7 +1511,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Regina_Coeli_in_B-flat_major,_K.127_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 127"
         },
         {
             "k": "128",
@@ -1410,7 +1524,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.16_in_C_major,_K.128_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 128"
         },
         {
             "k": "129",
@@ -1422,7 +1537,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.17_in_G_major,_K.129_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 129"
         },
         {
             "k": "130",
@@ -1434,7 +1550,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.18_in_F_major,_K.130_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 130"
         },
         {
             "k": "164",
@@ -1446,7 +1563,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Minuets,_K.164/130a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 164"
         },
         {
             "k": "131",
@@ -1458,7 +1576,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_D_major,_K.131_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 131"
         },
         {
             "k": "132",
@@ -1470,7 +1589,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.19_in_E-flat_major,_K.132_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 132"
         },
         {
             "k": "133",
@@ -1482,7 +1602,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.20_in_D_major,_K.133_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 133"
         },
         {
             "k": "134",
@@ -1494,7 +1615,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.21_in_A_major,_K.134_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 134"
         },
         {
             "k": "155",
@@ -1506,7 +1628,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.2_in_D_major,_K.155/134a_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 155"
         },
         {
             "k": "156",
@@ -1518,7 +1641,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.3_in_G_major,_K.156/134b_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 156"
         },
         {
             "k": "135",
@@ -1530,7 +1654,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Lucio_Silla,_K.135_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 135"
         },
         {
             "k": "161/163",
@@ -1542,7 +1667,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.50_in_D_major,_K.141a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 161/163"
         },
         {
             "k": "157",
@@ -1554,7 +1680,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.4_in_C_major,_K.157_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 157"
         },
         {
             "k": "158",
@@ -1566,7 +1693,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.5_in_F_major,_K.158_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 158"
         },
         {
             "k": "165",
@@ -1578,7 +1706,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Exsultate,_jubilate,_K.165/158a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 165"
         },
         {
             "k": "159",
@@ -1590,7 +1719,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.6_in_B-flat_major,_K.159_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 159"
         },
         {
             "k": "160",
@@ -1602,7 +1732,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.7_in_E-flat_major,_K.160/159a_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 160"
         },
         {
             "k": "186",
@@ -1614,7 +1745,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.186/159b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 186"
         },
         {
             "k": "166",
@@ -1626,7 +1758,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.166/159d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 166"
         },
         {
             "k": "184",
@@ -1638,7 +1771,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.26_in_E-flat_major,_K.184/161a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 184"
         },
         {
             "k": "199",
@@ -1650,7 +1784,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.27_in_G_major,_K.199/161b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 199"
         },
         {
             "k": "162",
@@ -1662,7 +1797,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.22_in_C_major,_K.162_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 162"
         },
         {
             "k": "181",
@@ -1674,7 +1810,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.23_in_D_major,_K.181/162b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 181"
         },
         {
             "k": "167",
@@ -1686,7 +1823,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mass_in_C_major,_K.167_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 167"
         },
         {
             "k": "205",
@@ -1698,7 +1836,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_D_major,_K.205/167A_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 205"
         },
         {
             "k": "290",
@@ -1710,7 +1849,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.290/167AB_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1772
+            "year": 1772,
+            "id": "K. 290"
         },
         {
             "k": "185",
@@ -1722,7 +1862,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.185/167a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 185"
         },
         {
             "k": "189",
@@ -1734,7 +1875,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.189/167b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 189"
         },
         {
             "k": "168",
@@ -1746,7 +1888,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.8_in_F_major,_K.168_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 168"
         },
         {
             "k": "169",
@@ -1758,7 +1901,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.9_in_A_major,_K.169_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 169"
         },
         {
             "k": "170",
@@ -1770,7 +1914,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.10_in_C_major,_K.170_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 170"
         },
         {
             "k": "171",
@@ -1782,7 +1927,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.11_in_E-flat_major,_K.171_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 171"
         },
         {
             "k": "172",
@@ -1794,7 +1940,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.12_in_B-flat_major,_K.172_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 172"
         },
         {
             "k": "173",
@@ -1806,7 +1953,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.13_in_D_minor,_K.173_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 173"
         },
         {
             "k": "180",
@@ -1818,7 +1966,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Variations_on_%22Mio_caro_adone%22,_K.180/173c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 180"
         },
         {
             "k": "182",
@@ -1830,7 +1979,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.24_in_B-flat_major,_K.182/173dA_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 182"
         },
         {
             "k": "183",
@@ -1842,7 +1992,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.25_in_G_minor,_K.183/173dB_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 183"
         },
         {
             "k": "174",
@@ -1854,7 +2005,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.1_in_B-flat_major,_K.174_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 174"
         },
         {
             "k": "175",
@@ -1866,7 +2018,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.5_in_D_major,_K.175_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 175"
         },
         {
             "k": "176",
@@ -1878,7 +2031,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/16_Minuets,_K.176_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 176"
         },
         {
             "k": "201",
@@ -1890,7 +2044,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.29_in_A_major,_K.201/186a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 201"
         },
         {
             "k": "202",
@@ -1902,7 +2057,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.30_in_D_major,_K.202/186b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 202"
         },
         {
             "k": "358",
@@ -1914,7 +2070,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_B-flat_major,_K.358/186c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 358"
         },
         {
             "k": "195",
@@ -1926,7 +2083,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Litaniae_Lauretanae,_K.195/186d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 195"
         },
         {
             "k": "190",
@@ -1938,7 +2096,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Concertone_in_C_major,_K.190/186E_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 190"
         },
         {
             "k": "191",
@@ -1950,7 +2109,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_K.191/186e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 191"
         },
         {
             "k": "192",
@@ -1962,7 +2122,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_F_major,_K.192/186f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 192"
         },
         {
             "k": "193",
@@ -1974,7 +2135,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Dixit_Dominus_and_Magnificat,_K.193/186g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 193"
         },
         {
             "k": "194",
@@ -1986,7 +2148,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_D_major,_K.194/186h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 194"
         },
         {
             "k": "179",
@@ -1998,7 +2161,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_on_a_Minuet_by_Fischer,_K.179/189a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 179"
         },
         {
             "k": "203",
@@ -2010,7 +2174,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.203/189b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 203"
         },
         {
             "k": "237",
@@ -2022,7 +2187,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.237/189c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 237"
         },
         {
             "k": "279",
@@ -2034,7 +2200,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.1_in_C_major,_K.279/189d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 279"
         },
         {
             "k": "280",
@@ -2046,7 +2213,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.2_in_F_major,_K.280/189e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 280"
         },
         {
             "k": "281",
@@ -2058,7 +2226,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.3_in_B-flat_major,_K.281/189f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 281"
         },
         {
             "k": "282",
@@ -2070,7 +2239,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.4_in_E-flat_major,_K.282/189g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 282"
         },
         {
             "k": "283",
@@ -2082,7 +2252,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.5_in_G_major,_K.283/189h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 283"
         },
         {
             "k": "200",
@@ -2094,7 +2265,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.28_in_C_major,_K.200/189k_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 200"
         },
         {
             "k": "196",
@@ -2106,7 +2278,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/La_finta_giardiniera,_K.196_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 196"
         },
         {
             "k": "220",
@@ -2118,7 +2291,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_C_major,_K.220/196b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 220"
         },
         {
             "k": "292",
@@ -2130,7 +2304,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Bassoon_and_Cello_in_B-flat_major,_K.292/196c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 292"
         },
         {
             "k": "222",
@@ -2142,7 +2317,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Misericordias_Domini,_K.222/205a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 222"
         },
         {
             "k": "284",
@@ -2154,7 +2330,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.6_in_D_major,_K.284/205b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 284"
         },
         {
             "k": "207",
@@ -2166,7 +2343,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Concerto_No.1_in_B-flat_major,_K.207_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 207"
         },
         {
             "k": "121",
@@ -2178,7 +2356,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Allegro_in_D_major,_K.121/207a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 121"
         },
         {
             "k": "208",
@@ -2190,7 +2369,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Il_r%C3%A8_pastore,_K.208_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 208"
         },
         {
             "k": "209",
@@ -2202,7 +2382,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Si_mostra_la_sorte,_K.209_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 209"
         },
         {
             "k": "210",
@@ -2214,7 +2395,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Con_ossequio,_con_rispetto,_K.210_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 210"
         },
         {
             "k": "211",
@@ -2226,7 +2408,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Concerto_No.2_in_D_major,_K.211_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 211"
         },
         {
             "k": "212",
@@ -2238,7 +2421,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_B-flat_major,_K.212_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 212"
         },
         {
             "k": "213",
@@ -2250,7 +2434,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_F_major,_K.213_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 213"
         },
         {
             "k": "204",
@@ -2262,7 +2447,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.204/213a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 204"
         },
         {
             "k": "215",
@@ -2274,7 +2460,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.215/213b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 215"
         },
         {
             "k": "102",
@@ -2286,7 +2473,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.52_in_C_major,_K.102/213c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 102"
         },
         {
             "k": "214",
@@ -2298,7 +2486,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_C_major,_K.214_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 214"
         },
         {
             "k": "216",
@@ -2310,7 +2499,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Concerto_No.3_in_G_major,_K.216_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 216"
         },
         {
             "k": "217",
@@ -2322,7 +2512,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Voi_avete_un_cor_fedele,_K.217_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 217"
         },
         {
             "k": "218",
@@ -2334,7 +2525,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Concerto_No.4_in_D_major,_K.218_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 218"
         },
         {
             "k": "219",
@@ -2346,7 +2538,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Concerto_No.5_in_A_major,_K.219_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1775
+            "year": 1775,
+            "id": "K. 219"
         },
         {
             "k": "238",
@@ -2358,7 +2551,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.6_in_B-flat_major,_K.238_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 238"
         },
         {
             "k": "239",
@@ -2370,7 +2564,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.239_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 239"
         },
         {
             "k": "240",
@@ -2382,7 +2577,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.240_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 240"
         },
         {
             "k": "252",
@@ -2394,7 +2590,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.252/240a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 252"
         },
         {
             "k": "188",
@@ -2406,7 +2603,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_C_major,_K.188/240b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1773
+            "year": 1773,
+            "id": "K. 188"
         },
         {
             "k": "241",
@@ -2418,7 +2616,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_G_major,_K.241_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 241"
         },
         {
             "k": "224",
@@ -2430,7 +2629,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.224/241a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 224"
         },
         {
             "k": "225",
@@ -2442,7 +2642,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_A_major,_K.225/241b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 225"
         },
         {
             "k": "242",
@@ -2454,7 +2655,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.7_in_F_major,_K.242_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 242"
         },
         {
             "k": "243",
@@ -2466,7 +2668,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Litaniae_de_venerabili_altaris_sacramento,_K.243_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 243"
         },
         {
             "k": "244",
@@ -2478,7 +2681,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.244_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 244"
         },
         {
             "k": "245",
@@ -2490,7 +2694,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.245_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 245"
         },
         {
             "k": "246",
@@ -2502,7 +2707,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.8_in_C_major,_K.246_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 246"
         },
         {
             "k": "262",
@@ -2514,7 +2720,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mass_in_C_major,_K.262/246a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 262"
         },
         {
             "k": "247",
@@ -2526,7 +2733,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_F_major,_K.247_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 247"
         },
         {
             "k": "248",
@@ -2538,7 +2746,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_F_major,_K.248_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 248"
         },
         {
             "k": "260",
@@ -2550,7 +2759,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Venite_populi,_K.260/248a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 260"
         },
         {
             "k": "250",
@@ -2562,7 +2772,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.250/248b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 250"
         },
         {
             "k": "249",
@@ -2574,7 +2785,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.249_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 249"
         },
         {
             "k": "101",
@@ -2586,7 +2798,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/4_Country_Dances,_K.101/250a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 101"
         },
         {
             "k": "251",
@@ -2598,7 +2811,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_D_major,_K.251_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 251"
         },
         {
             "k": "253",
@@ -2610,7 +2824,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_F_major,_K.253_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 253"
         },
         {
             "k": "254",
@@ -2622,7 +2837,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.254_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 254"
         },
         {
             "k": "255",
@@ -2634,7 +2850,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ombra_felice,_K.255_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 255"
         },
         {
             "k": "256",
@@ -2646,7 +2863,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Clarice_cara_mia_sposa,_K.256_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 256"
         },
         {
             "k": "257",
@@ -2658,7 +2876,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mass_in_C_major,_K.257_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 257"
         },
         {
             "k": "258",
@@ -2670,7 +2889,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_C_major,_K.258_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 258"
         },
         {
             "k": "259",
@@ -2682,7 +2902,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_C_major,_K.259_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 259"
         },
         {
             "k": "261",
@@ -2694,7 +2915,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_in_E_major,_K.261_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 261"
         },
         {
             "k": "269",
@@ -2706,7 +2928,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_B-flat_major,_K.269/261a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 269"
         },
         {
             "k": "263",
@@ -2718,7 +2941,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.263_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 263"
         },
         {
             "k": "286",
@@ -2730,7 +2954,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Notturno_in_D_major,_K.286/269a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 286"
         },
         {
             "k": "270",
@@ -2742,7 +2967,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.270_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 270"
         },
         {
             "k": "271",
@@ -2754,7 +2980,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.9_in_E-flat_major,_K.271_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 271"
         },
         {
             "k": "267",
@@ -2766,7 +2993,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/4_Country_Dances,_K.267/271c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 267"
         },
         {
             "k": "274",
@@ -2778,7 +3006,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_G_major,_K.274/271d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 274"
         },
         {
             "k": "278",
@@ -2790,7 +3019,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.278/271e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 278"
         },
         {
             "k": "266",
@@ -2802,7 +3032,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Trio_in_B-flat_major,_K.266/271f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 266"
         },
         {
             "k": "289",
@@ -2814,7 +3045,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.289/271g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 289"
         },
         {
             "k": "287",
@@ -2826,7 +3058,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.287/271h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 287"
         },
         {
             "k": "314",
@@ -2838,7 +3071,8 @@
             "notes": "revised as K.314/285d",
             "link": "https://imslp.org/wiki/Oboe_Concerto_in_C_major,_K.314/271k_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1776
+            "year": 1776,
+            "id": "K. 314"
         },
         {
             "k": "272",
@@ -2850,7 +3084,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ah,_lo_previdi,_K.272_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 272"
         },
         {
             "k": "277",
@@ -2862,7 +3097,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Alma_Dei_creatoris,_K.277/272a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 277"
         },
         {
             "k": "275",
@@ -2874,7 +3110,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_brevis_in_B-flat_major,_K.275/272b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1774
+            "year": 1774,
+            "id": "K. 275"
         },
         {
             "k": "273",
@@ -2886,7 +3123,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sancta_Maria,_mater_Dei,_K.273_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 273"
         },
         {
             "k": "395 / 300g",
@@ -2898,7 +3136,8 @@
             "notes": "formerly known as \"Capriccio\" K 395 / K 300g",
             "link": "https://imslp.org/wiki/Capriccio_in_C_major,_K.395_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 395 / 300g"
         },
         {
             "k": "309",
@@ -2910,7 +3149,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.7_in_C_major,_K.309/284b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 309"
         },
         {
             "k": "311",
@@ -2922,7 +3162,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.9_in_D_major,_K.311/284c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 311"
         },
         {
             "k": "307",
@@ -2934,7 +3175,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Oiseaux,_si_tous_les_ans,_K.307/K.284d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 307"
         },
         {
             "k": "285",
@@ -2946,7 +3188,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Flute_Quartet_in_D_major,_K.285_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 285"
         },
         {
             "k": "313",
@@ -2958,7 +3201,8 @@
             "notes": "based on K.314/271k",
             "link": "https://imslp.org/wiki/Flute_Concerto_in_G_major,_K.313/285c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 313"
         },
         {
             "k": "314",
@@ -2970,7 +3214,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Flute_Concerto_in_D_major,_K.314/285d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1777
+            "year": 1777,
+            "id": "K. 314"
         },
         {
             "k": "315",
@@ -2982,7 +3227,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Andante_in_C_major,_K.315/285e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 315"
         },
         {
             "k": "301",
@@ -2994,7 +3240,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_K.301/293a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 301"
         },
         {
             "k": "302",
@@ -3006,7 +3253,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_E-flat_major,_K.302/293b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 302"
         },
         {
             "k": "303",
@@ -3018,7 +3266,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_K.303/293c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 303"
         },
         {
             "k": "305",
@@ -3030,7 +3279,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_A_major,_K.305/293d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 305"
         },
         {
             "k": "294",
@@ -3042,7 +3292,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Alcandro,_lo_confesso,_K.294_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 294"
         },
         {
             "k": "295",
@@ -3054,7 +3305,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Se_al_labbro_mio_non_credi,_K.295_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 295"
         },
         {
             "k": "308",
@@ -3066,7 +3318,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Dans_un_bois_solitaire,_K.308/295b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 308"
         },
         {
             "k": "296",
@@ -3078,7 +3331,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_K.296_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 296"
         },
         {
             "k": "299",
@@ -3090,7 +3344,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Flute_and_Harp_Concerto_in_C_major,_K.299/297c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 299"
         },
         {
             "k": "298",
@@ -3102,7 +3357,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Flute_Quartet_in_A_major,_K.298_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 298"
         },
         {
             "k": "354",
@@ -3114,7 +3370,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_on_%22Je_suis_Lindor%22,_K.354/299a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 354"
         },
         {
             "k": "300",
@@ -3126,7 +3383,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Gavotte_in_B-flat_major,_K.300_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 300"
         },
         {
             "k": "297",
@@ -3138,7 +3396,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.31_in_D_major,_K.297/300a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 297"
         },
         {
             "k": "316",
@@ -3150,7 +3409,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Popoli_di_Tessaglia,_K.316/300b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 316"
         },
         {
             "k": "304",
@@ -3162,7 +3422,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_E_minor,_K.304/300c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 304"
         },
         {
             "k": "310",
@@ -3174,7 +3435,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.8_in_A_minor,_K.310/300d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 310"
         },
         {
             "k": "265",
@@ -3186,7 +3448,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 265"
         },
         {
             "k": "353",
@@ -3198,7 +3461,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_on_%22La_belle_fran%C3%A7oise%22,_K.353/300f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 353"
         },
         {
             "k": "330",
@@ -3210,7 +3474,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.10_in_C_major,_K.330/300h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 330"
         },
         {
             "k": "331",
@@ -3222,7 +3487,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.11_in_A_major,_K.331/300i_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 331"
         },
         {
             "k": "332",
@@ -3234,7 +3500,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.12_in_F_major,_K.332/300k_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 332"
         },
         {
             "k": "306",
@@ -3246,7 +3513,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_K.306/300l_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 306"
         },
         {
             "k": "333",
@@ -3258,7 +3526,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.13_in_B-flat_major,_K.333/315c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 333"
         },
         {
             "k": "264",
@@ -3270,7 +3539,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/9_Variations_on_%22Lison_dormait%22,_K.264/315d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 264"
         },
         {
             "k": "365",
@@ -3282,7 +3552,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.10_in_E-flat_major,_K.365/316a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 365"
         },
         {
             "k": "317",
@@ -3294,7 +3565,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mass_in_C_major,_K.317_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 317"
         },
         {
             "k": "329",
@@ -3306,7 +3578,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.329/317a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 329"
         },
         {
             "k": "146",
@@ -3318,7 +3591,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Kommet_her,_ihr_frechen_S%C3%BCnder,_K.146/317b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 146"
         },
         {
             "k": "328",
@@ -3330,7 +3604,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.328/317c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 328"
         },
         {
             "k": "378",
@@ -3342,7 +3617,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.378/317d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 378"
         },
         {
             "k": "318",
@@ -3354,7 +3630,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.32_in_G_major,_K.318_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 318"
         },
         {
             "k": "319",
@@ -3366,7 +3643,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.33_in_B-flat_major,_K.319_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 319"
         },
         {
             "k": "320",
@@ -3378,7 +3656,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_D_major,_K.320_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 320"
         },
         {
             "k": "335",
@@ -3390,7 +3669,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/2_Marches,_K.335/320a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 335"
         },
         {
             "k": "334",
@@ -3402,7 +3682,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_D_major,_K.334/320b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 334"
         },
         {
             "k": "445",
@@ -3414,7 +3695,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/March_in_D_major,_K.445/320c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 445"
         },
         {
             "k": "364",
@@ -3426,7 +3708,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sinfonia_concertante_in_E-flat_major,_K.364/320d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 364"
         },
         {
             "k": "321",
@@ -3438,7 +3721,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Vesperae_de_Dominica,_K.321_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 321"
         },
         {
             "k": "276",
@@ -3450,7 +3734,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Regina_Coeli_in_C_major,_K.276/321b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 276"
         },
         {
             "k": "345",
@@ -3462,7 +3747,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Thamos,_K%C3%B6nig_in_%C3%84gypten,_K.345/336a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1779
+            "year": 1779,
+            "id": "K. 345"
         },
         {
             "k": "344",
@@ -3474,7 +3760,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Zaide,_K.344/336b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 344"
         },
         {
             "k": "343",
@@ -3486,7 +3773,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/2_Kirchenlieder,_K.343/336c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 343"
         },
         {
             "k": "336",
@@ -3498,7 +3786,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.336/336d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 336"
         },
         {
             "k": "337",
@@ -3510,7 +3799,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Missa_solemnis_in_C_major,_K.337_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 337"
         },
         {
             "k": "338",
@@ -3522,7 +3812,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.34_in_C_major,_K.338_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 338"
         },
         {
             "k": "339",
@@ -3534,7 +3825,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Vesperae_solennes_de_confessore,_K.339_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 339"
         },
         {
             "k": "392",
@@ -3546,7 +3838,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Verdankt_sei_es_dem_Glanz,_K.392/340a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 392"
         },
         {
             "k": "391",
@@ -3558,7 +3851,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/An_die_Einsamkeit,_K.391/340b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 391"
         },
         {
             "k": "390",
@@ -3570,7 +3864,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/An_die_Hoffnung,_K.390/340c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 390"
         },
         {
             "k": "363",
@@ -3582,7 +3877,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/3_Minuets,_K.363_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 363"
         },
         {
             "k": "366",
@@ -3594,7 +3890,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Idomeneo,_K.366_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 366"
         },
         {
             "k": "367",
@@ -3606,7 +3903,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Idomeneo,_ballet_music,_K.367_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 367"
         },
         {
             "k": "349",
@@ -3618,7 +3916,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Zufriedenheit,_K.349/367a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1780
+            "year": 1780,
+            "id": "K. 349"
         },
         {
             "k": "351",
@@ -3630,7 +3929,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Komm,_liebe_Zither_komm,_K.351/367b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 351"
         },
         {
             "k": "368",
@@ -3642,7 +3942,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ma_che_vi_fece,_K.368_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 368"
         },
         {
             "k": "341",
@@ -3654,7 +3955,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Kyrie_in_D_minor,_K.341/368a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 341"
         },
         {
             "k": "370",
@@ -3666,7 +3968,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Oboe_Quartet_in_F_major,_K.370/368b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 370"
         },
         {
             "k": "369",
@@ -3678,7 +3981,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Misera,_dove_son!,_K.369_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 369"
         },
         {
             "k": "361",
@@ -3690,7 +3994,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_B-flat_major,_K.361/370a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 361"
         },
         {
             "k": "373",
@@ -3702,7 +4007,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_C_major,_K.373_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 373"
         },
         {
             "k": "379",
@@ -3714,7 +4020,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_K.379/373a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 379"
         },
         {
             "k": "374",
@@ -3726,7 +4033,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/A_questo_seno_deh_vieni,_K.374_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 374"
         },
         {
             "k": "359",
@@ -3738,7 +4046,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_on_%22La_berg%C3%A8re_C%C3%A9limene%22,_K.359/374a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 359"
         },
         {
             "k": "360",
@@ -3750,7 +4059,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Variations_on_%22H%C3%A9las,_j%27ai_perdu_mon_amant%22,_K.360/374b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 360"
         },
         {
             "k": "352",
@@ -3762,7 +4072,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/8_Variations_on_%22Dieu_d%27amour%22,_K.352/374c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 352"
         },
         {
             "k": "376",
@@ -3774,7 +4085,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_K.376/374d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 376"
         },
         {
             "k": "377",
@@ -3786,7 +4098,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_K.377/374e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 377"
         },
         {
             "k": "380",
@@ -3798,7 +4111,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_E-flat_major,_K.380/374f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 380"
         },
         {
             "k": "375",
@@ -3810,7 +4124,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_E-flat_major,_K.375_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 375"
         },
         {
             "k": "448",
@@ -3822,7 +4137,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Two_Pianos_in_D_major,_K.448/375a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1781
+            "year": 1781,
+            "id": "K. 448"
         },
         {
             "k": "382",
@@ -3834,7 +4150,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_D_major,_K.382_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 382"
         },
         {
             "k": "229",
@@ -3846,7 +4163,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_C_minor,_K.229/382a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 229"
         },
         {
             "k": "230",
@@ -3858,7 +4176,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_2_Voices_in_C_major,_K.230/382b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 230"
         },
         {
             "k": "231",
@@ -3870,7 +4189,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_6_Voices_in_B-flat_major,_K.231/382c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 231"
         },
         {
             "k": "233",
@@ -3882,7 +4202,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_B-flat_major,_K.233/382d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 233"
         },
         {
             "k": "234",
@@ -3894,7 +4215,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_G_major,_K.234/382e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 234"
         },
         {
             "k": "347",
@@ -3906,7 +4228,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_6_Voices_in_D_major,_K.347/K.382f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 347"
         },
         {
             "k": "348",
@@ -3918,7 +4241,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_12_Voices_in_G_major,_K.348/382g_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 348"
         },
         {
             "k": "119",
@@ -3930,7 +4254,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Der_Liebe_himmlisches_Gef%C3%BChl,_K.119/382h_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 119"
         },
         {
             "k": "383",
@@ -3942,7 +4267,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Nehmt_meinen_Dank,_K.383_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 383"
         },
         {
             "k": "394",
@@ -3954,7 +4280,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Prelude_and_Fugue_in_C_major,_K.394/383a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 394"
         },
         {
             "k": "408/1",
@@ -3966,7 +4293,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/3_Marches,_K.408_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 408/1"
         },
         {
             "k": "408/3",
@@ -3978,7 +4306,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/3_Marches,_K.408_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 408/3"
         },
         {
             "k": "409",
@@ -3990,7 +4319,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Minuet_in_C_major,_K.409/383f_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 409"
         },
         {
             "k": "384",
@@ -4002,7 +4332,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail,_K.384_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 384"
         },
         {
             "k": "389",
@@ -4014,7 +4345,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Welch_%C3%A4ngstliches_Beben,_K.389/384A_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 389"
         },
         {
             "k": "388",
@@ -4026,7 +4358,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Serenade_in_C_minor,_K.388/384a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 388"
         },
         {
             "k": "385",
@@ -4038,7 +4371,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.35_in_D_major,_K.385_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 385"
         },
         {
             "k": "408/2",
@@ -4050,7 +4384,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/3_Marches,_K.408_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 408/2"
         },
         {
             "k": "393",
@@ -4062,7 +4397,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/5_Solfeggios,_K.393/385b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 393"
         },
         {
             "k": "414",
@@ -4074,7 +4410,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.12_in_A_major,_K.414/385p_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 414"
         },
         {
             "k": "386",
@@ -4086,7 +4423,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_A_major,_K.386_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 386"
         },
         {
             "k": "412/514",
@@ -4098,7 +4436,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Horn_Concerto_in_D_major,_K.412/386b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 412/514"
         },
         {
             "k": "407",
@@ -4110,7 +4449,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Horn_Quintet_in_E-flat_major,_K.407/386c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 407"
         },
         {
             "k": "387",
@@ -4122,7 +4462,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.14_in_G_major,_K.387_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1782
+            "year": 1782,
+            "id": "K. 387"
         },
         {
             "k": "413",
@@ -4134,7 +4475,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.11_in_F_major,_K.413/387a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 413"
         },
         {
             "k": "415",
@@ -4146,7 +4488,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.13_in_C_major,_K.415/387b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 415"
         },
         {
             "k": "416",
@@ -4158,7 +4501,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mia_speranza_adorata,_K.416_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 416"
         },
         {
             "k": "398",
@@ -4170,7 +4514,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/5_Variations_on_%22Salve_tu_Domine%22,_K.398/416e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 398"
         },
         {
             "k": "417",
@@ -4182,7 +4527,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Horn_Concerto_in_E-flat_major,_K.417_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 417"
         },
         {
             "k": "421",
@@ -4194,7 +4540,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.15_in_D_minor,_K.421/417b_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 421"
         },
         {
             "k": "178",
@@ -4206,7 +4553,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ah,_spiegarti,_o_Dio,_K.178/417e_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 178"
         },
         {
             "k": "418",
@@ -4218,7 +4566,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Vorrei_spiegarvi,_o_Dio,_K.418_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 418"
         },
         {
             "k": "419",
@@ -4230,7 +4579,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/No,_no,_che_non_sei_capace,_K.419_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 419"
         },
         {
             "k": "420",
@@ -4242,7 +4592,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Per_piet%C3%A0,_non_ricercate,_K.420_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 420"
         },
         {
             "k": "432",
@@ -4254,7 +4605,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cos%C3%AC_dunque_tradisci,_K.432/421a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 432"
         },
         {
             "k": "428",
@@ -4266,7 +4618,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.16_in_E-flat_major,_K.428/421b_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 428"
         },
         {
             "k": "423",
@@ -4278,7 +4631,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Duo_for_Violin_and_Viola,_K.423_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 423"
         },
         {
             "k": "424",
@@ -4290,7 +4644,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Duo_for_Violin_and_Viola,_K.424_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 424"
         },
         {
             "k": "425",
@@ -4302,7 +4657,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.36_in_C_major,_K.425_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 425"
         },
         {
             "k": "431",
@@ -4314,7 +4670,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Misero!_o_sogno,_K.431/425b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 431"
         },
         {
             "k": "426",
@@ -4326,7 +4683,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Fugue_in_C_minor,_K.426_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 426"
         },
         {
             "k": "436",
@@ -4338,7 +4696,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ecco_quel_fiero_istante,_K.436_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 436"
         },
         {
             "k": "437",
@@ -4350,7 +4709,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mi_lagner%C3%B2_tacendo,_K.437_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 437"
         },
         {
             "k": "438",
@@ -4362,7 +4722,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Se_lontan_ben_mio,_tu_sei,_K.438_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 438"
         },
         {
             "k": "439",
@@ -4374,7 +4735,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Due_pupille_amabili,_K.439_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 439"
         },
         {
             "k": "346",
@@ -4386,7 +4748,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Luci_care,_luci_belle,_K.346/439a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 346"
         },
         {
             "k": "441",
@@ -4398,7 +4761,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Das_Bandel,_K.441_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 441"
         },
         {
             "k": "447",
@@ -4410,7 +4774,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Horn_Concerto_in_E-flat_major,_K.447_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 447"
         },
         {
             "k": "461",
@@ -4422,7 +4787,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Minuets,_K.461/448a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 461"
         },
         {
             "k": "462",
@@ -4434,7 +4800,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Country_Dances,_K.462/448b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 462"
         },
         {
             "k": "463",
@@ -4446,7 +4813,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/2_Minuets,_K.463/448c_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 463"
         },
         {
             "k": "449",
@@ -4458,7 +4826,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.14_in_E-flat_major,_K.449_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 449"
         },
         {
             "k": "450",
@@ -4470,7 +4839,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.15_in_B-flat_major,_K.450_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 450"
         },
         {
             "k": "451",
@@ -4482,7 +4852,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.16_in_D_major,_K.451_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 451"
         },
         {
             "k": "452",
@@ -4494,7 +4865,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Quintet_in_E-flat_major,_K.452_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 452"
         },
         {
             "k": "453",
@@ -4506,7 +4878,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.17_in_G_major,_K.453_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 453"
         },
         {
             "k": "454",
@@ -4518,7 +4891,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_K.454_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 454"
         },
         {
             "k": "460",
@@ -4530,7 +4904,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/8_Variations_on_%22Come_un_agnello%22,_K.460/454a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 460"
         },
         {
             "k": "455",
@@ -4542,7 +4917,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/10_Variations_on_%22Unser_dummer_P%C3%B6bel_meint%22,_K.455_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 455"
         },
         {
             "k": "456",
@@ -4554,7 +4930,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.18_in_B-flat_major,_K.456_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 456"
         },
         {
             "k": "457",
@@ -4566,7 +4943,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.14_in_C_minor,_K.457_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 457"
         },
         {
             "k": "458",
@@ -4578,7 +4956,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.17_in_B-flat_major,_K.458_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 458"
         },
         {
             "k": "459",
@@ -4590,7 +4969,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.19_in_F_major,_K.459_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 459"
         },
         {
             "k": "464",
@@ -4602,7 +4982,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.18_in_A_major,_K.464_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 464"
         },
         {
             "k": "465",
@@ -4614,7 +4995,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.19_in_C_major,_K.465_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 465"
         },
         {
             "k": "466",
@@ -4626,7 +5008,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.20_in_D_minor,_K.466_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 466"
         },
         {
             "k": "467",
@@ -4638,7 +5021,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.21_in_C_major,_K.467_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 467"
         },
         {
             "k": "468",
@@ -4650,7 +5034,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Gesellenreise,_K.468_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 468"
         },
         {
             "k": "469",
@@ -4662,7 +5047,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Davidde_Penitente,_K.469_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 469"
         },
         {
             "k": "471",
@@ -4674,7 +5060,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Maurerfreude,_K.471_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 471"
         },
         {
             "k": "472",
@@ -4686,7 +5073,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Der_Zauberer,_K.472_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 472"
         },
         {
             "k": "473",
@@ -4698,7 +5086,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Zufriedenheit,_K.473_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 473"
         },
         {
             "k": "474",
@@ -4710,7 +5099,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_betrogene_Welt,_K.474_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 474"
         },
         {
             "k": "475",
@@ -4722,7 +5112,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Fantasia_in_C_minor,_K.475_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 475"
         },
         {
             "k": "476",
@@ -4734,7 +5125,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Das_Veilchen,_K.476_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 476"
         },
         {
             "k": "478",
@@ -4746,7 +5138,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Quartet_in_G_minor,_K.478_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 478"
         },
         {
             "k": "479",
@@ -4758,7 +5151,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Dite_almeno,_in_che_mancai,_K.479_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 479"
         },
         {
             "k": "477",
@@ -4770,7 +5164,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Maurerische_Trauermusik,_K.477/479a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 477"
         },
         {
             "k": "480",
@@ -4782,7 +5177,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mandina_amabile,_K.480_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 480"
         },
         {
             "k": "434",
@@ -4794,7 +5190,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Del_gran_regno_delle_amazoni,_K.434/480b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 434"
         },
         {
             "k": "481",
@@ -4806,7 +5203,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_E-flat_major,_K.481_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 481"
         },
         {
             "k": "482",
@@ -4818,7 +5216,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.22_in_E-flat_major,_K.482_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 482"
         },
         {
             "k": "483",
@@ -4830,7 +5229,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Zerfliesset_heut%27,_geliebte_Br%C3%BCder,_K.483_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 483"
         },
         {
             "k": "484",
@@ -4842,7 +5242,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ihr_unsre_neuen_Leiter,_K.484_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 484"
         },
         {
             "k": "411",
@@ -4854,7 +5255,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_in_B-flat_major,_K.411/484a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 411"
         },
         {
             "k": "410",
@@ -4866,7 +5268,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_in_F_major,_K.410/484d_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 410"
         },
         {
             "k": "485",
@@ -4878,7 +5281,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_D_major,_K.485_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 485"
         },
         {
             "k": "486",
@@ -4890,7 +5294,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Der_Schauspieldirektor,_K.486_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 486"
         },
         {
             "k": "486a",
@@ -4902,7 +5307,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Basta,_vincesti,_K.486a/295a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1778
+            "year": 1778,
+            "id": "K. 486a"
         },
         {
             "k": "488",
@@ -4914,7 +5320,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.23_in_A_major,_K.488_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 488"
         },
         {
             "k": "489",
@@ -4926,7 +5333,8 @@
             "notes": "",
             "link": "",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 489"
         },
         {
             "k": "490",
@@ -4938,7 +5346,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Non_pi%C3%B9!_Tutto_ascoltai,_K.490_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 490"
         },
         {
             "k": "491",
@@ -4950,7 +5359,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.24_in_C_minor,_K.491_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 491"
         },
         {
             "k": "492",
@@ -4962,7 +5372,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Le_nozze_di_Figaro,_K.492_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 492"
         },
         {
             "k": "493",
@@ -4974,7 +5385,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Quartet_in_E-flat_major,_K.493_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 493"
         },
         {
             "k": "494",
@@ -4986,7 +5398,8 @@
             "notes": "revised in K.533",
             "link": "https://imslp.org/wiki/Rondo_in_F_major,_K.494_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 494"
         },
         {
             "k": "495",
@@ -4998,7 +5411,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Horn_Concerto_in_E-flat_major,_K.495_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 495"
         },
         {
             "k": "496",
@@ -5010,7 +5424,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Trio_in_G_major,_K.496_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 496"
         },
         {
             "k": "487",
@@ -5022,7 +5437,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Horn_Duos,_K.487/496a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 487"
         },
         {
             "k": "497",
@@ -5034,7 +5450,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_F_major,_K.497_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 497"
         },
         {
             "k": "498",
@@ -5046,7 +5463,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Trio_in_E-flat_major,_K.498_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 498"
         },
         {
             "k": "499",
@@ -5058,7 +5476,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.20_in_D_major,_K.499_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 499"
         },
         {
             "k": "500",
@@ -5070,7 +5489,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Variations_in_B-flat_major,_K.500_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 500"
         },
         {
             "k": "501",
@@ -5082,7 +5502,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/5_Variations_in_G_major,_K.501_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 501"
         },
         {
             "k": "502",
@@ -5094,7 +5515,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Trio_in_B-flat_major,_K.502_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 502"
         },
         {
             "k": "503",
@@ -5106,7 +5528,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.25_in_C_major,_K.503_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1785
+            "year": 1785,
+            "id": "K. 503"
         },
         {
             "k": "504",
@@ -5118,7 +5541,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.38_in_D_major,_K.504_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 504"
         },
         {
             "k": "505",
@@ -5130,7 +5554,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ch%27io_mi_scordi_di_te%3F,_K.505_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 505"
         },
         {
             "k": "506",
@@ -5142,7 +5567,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Lied_der_Freiheit,_K.506_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 506"
         },
         {
             "k": "507",
@@ -5154,7 +5580,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.507_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 507"
         },
         {
             "k": "508",
@@ -5166,7 +5593,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.508_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 508"
         },
         {
             "k": "509",
@@ -5178,7 +5606,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_German_Dances,_K.509_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 509"
         },
         {
             "k": "232",
@@ -5190,7 +5619,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_G_major,_K.232/509a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 232"
         },
         {
             "k": "511",
@@ -5202,7 +5632,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rondo_in_A_minor,_K.511_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 511"
         },
         {
             "k": "512",
@@ -5214,7 +5645,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Alcandro,_lo_confesso,_K.512_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 512"
         },
         {
             "k": "513",
@@ -5226,7 +5658,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Mentre_ti_lascio,_K.513_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 513"
         },
         {
             "k": "515",
@@ -5238,7 +5671,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.3_in_C_major,_K.515_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 515"
         },
         {
             "k": "228",
@@ -5250,7 +5684,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Double_Canon_for_4_Voices,_K.228_(K.515b)_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 228"
         },
         {
             "k": "516",
@@ -5262,7 +5697,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.4_in_G_minor,_K.516_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 516"
         },
         {
             "k": "406",
@@ -5274,7 +5710,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.2_in_C_minor,_K.406/516b_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 406"
         },
         {
             "k": "517",
@@ -5286,7 +5723,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Alte,_K.517_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 517"
         },
         {
             "k": "518",
@@ -5298,7 +5736,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Verschweigung,_K.518_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 518"
         },
         {
             "k": "519",
@@ -5310,7 +5749,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Das_Lied_der_Trennung,_K.519_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 519"
         },
         {
             "k": "520",
@@ -5322,7 +5762,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Als_Luise_die_Briefe,_K.520_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 520"
         },
         {
             "k": "521",
@@ -5334,7 +5775,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_C_major,_K.521_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 521"
         },
         {
             "k": "522",
@@ -5346,7 +5788,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ein_musikalischer_Spa%C3%9F,_K.522_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1786
+            "year": 1786,
+            "id": "K. 522"
         },
         {
             "k": "523",
@@ -5358,7 +5801,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Abendempfindung,_K.523_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 523"
         },
         {
             "k": "524",
@@ -5370,7 +5814,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/An_Chloe,_K.524_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 524"
         },
         {
             "k": "525",
@@ -5382,7 +5827,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Eine_kleine_Nachtmusik,_K.525_(Mozart,_Wolfgang_Amadeus)",
             "type": "Serenade",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 525"
         },
         {
             "k": "526",
@@ -5394,7 +5840,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_A_major,_K.526_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 526"
         },
         {
             "k": "527",
@@ -5406,7 +5853,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Don_Giovanni,_K.527_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 527"
         },
         {
             "k": "528",
@@ -5418,7 +5866,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Bella_mia_fiamma,_K.528_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 528"
         },
         {
             "k": "529",
@@ -5430,7 +5879,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Des_kleinen_Friedrichs_Geburtstag,_K.529_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 529"
         },
         {
             "k": "530",
@@ -5442,7 +5892,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Das_Traumbild,_K.530_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 530"
         },
         {
             "k": "531",
@@ -5454,7 +5905,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_kleine_Spinnerin,_K.531_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 531"
         },
         {
             "k": "533",
@@ -5466,7 +5918,8 @@
             "notes": "includes 2nd version of K.494",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.15_in_F_major,_K.533/494_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 533"
         },
         {
             "k": "534",
@@ -5478,7 +5931,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_D_major,_K.534_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 534"
         },
         {
             "k": "535",
@@ -5490,7 +5944,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_C_major,_K.535_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 535"
         },
         {
             "k": "536",
@@ -5502,7 +5957,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_German_Dances,_K.536_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 536"
         },
         {
             "k": "537",
@@ -5514,7 +5970,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.26_in_D_major,_K.537_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 537"
         },
         {
             "k": "538",
@@ -5526,7 +5983,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ah_se_in_ciel,_K.538_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 538"
         },
         {
             "k": "539",
@@ -5538,7 +5996,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ein_deutsches_Kriegslied,_K.539_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 539"
         },
         {
             "k": "540",
@@ -5550,7 +6009,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_in_B_minor,_K.540_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 540"
         },
         {
             "k": "541",
@@ -5562,7 +6022,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Un_bacio_di_mano,_K.541_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 541"
         },
         {
             "k": "542",
@@ -5574,7 +6035,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Trio_in_E_major,_K.542_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 542"
         },
         {
             "k": "543",
@@ -5586,7 +6048,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.39_in_E-flat_major,_K.543_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 543"
         },
         {
             "k": "545",
@@ -5598,7 +6061,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.16_in_C_major,_K.545_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 545"
         },
         {
             "k": "546",
@@ -5610,7 +6074,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_and_Fugue_in_C_minor,_K.546_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 546"
         },
         {
             "k": "547",
@@ -5622,7 +6087,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_K.547_(Mozart,_Wolfgang_Amadeus)",
             "type": "Violin Sonata",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 547"
         },
         {
             "k": "54",
@@ -5634,7 +6100,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Variations_in_F_major,_K.54_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 54"
         },
         {
             "k": "548",
@@ -5646,7 +6113,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Trio_in_C_major,_K.548_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 548"
         },
         {
             "k": "549",
@@ -5658,7 +6126,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Pi%C3%BA_non_si_trovano,_K.549_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 549"
         },
         {
             "k": "550",
@@ -5670,7 +6139,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.40_in_G_minor,_K.550_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 550"
         },
         {
             "k": "551",
@@ -5682,7 +6152,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Symphony_No.41_in_C_major,_K.551_(Mozart,_Wolfgang_Amadeus)",
             "type": "Symphony",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 551"
         },
         {
             "k": "552",
@@ -5694,7 +6165,8 @@
             "notes": "",
             "link": "",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 552"
         },
         {
             "k": "553",
@@ -5706,7 +6178,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_C_major,_K.553_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 553"
         },
         {
             "k": "554",
@@ -5718,7 +6191,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_major,_K.554_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 554"
         },
         {
             "k": "555",
@@ -5730,7 +6204,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_A_minor,_K.555_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 555"
         },
         {
             "k": "556",
@@ -5742,7 +6217,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_G_major,_K.556_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 556"
         },
         {
             "k": "557",
@@ -5754,7 +6230,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_minor,_K.557_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 557"
         },
         {
             "k": "558",
@@ -5766,7 +6243,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_B-flat_major,_K.558_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 558"
         },
         {
             "k": "559",
@@ -5778,7 +6256,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.559_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 559"
         },
         {
             "k": "560",
@@ -5790,7 +6269,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_major,_K.560_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 560"
         },
         {
             "k": "561",
@@ -5802,7 +6282,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_4_Voices_in_A_major,_K.561_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 561"
         },
         {
             "k": "562",
@@ -5814,7 +6295,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Canon_for_3_Voices_in_A_major,_K.562_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 562"
         },
         {
             "k": "563",
@@ -5826,7 +6308,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.563_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 563"
         },
         {
             "k": "564",
@@ -5838,7 +6321,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Trio_in_G_major,_K.564_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Chamber",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 564"
         },
         {
             "k": "567",
@@ -5850,7 +6334,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_German_Dances,_K.567_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 567"
         },
         {
             "k": "568",
@@ -5862,7 +6347,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Minuets,_K.568_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1788
+            "year": 1788,
+            "id": "K. 568"
         },
         {
             "k": "570",
@@ -5874,7 +6360,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.17_in_B-flat_major,_K.570_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 570"
         },
         {
             "k": "571",
@@ -5886,7 +6373,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_German_Dances,_K.571_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 571"
         },
         {
             "k": "573",
@@ -5898,7 +6386,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/9_Variations_on_a_Minuet_by_Duport,_K.573_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 573"
         },
         {
             "k": "574",
@@ -5910,7 +6399,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Gigue_in_G_major,_K.574_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 574"
         },
         {
             "k": "575",
@@ -5922,7 +6412,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.21_in_D_major,_K.575_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 575"
         },
         {
             "k": "576",
@@ -5934,7 +6425,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Sonata_No.18_in_D_major,_K.576_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Sonata",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 576"
         },
         {
             "k": "355",
@@ -5946,7 +6438,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Minuet_in_D_major,_K.355/576b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 355"
         },
         {
             "k": "577",
@@ -5958,7 +6451,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Al_desio,_di_chi_t%27adora,_K.577_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 577"
         },
         {
             "k": "578",
@@ -5970,7 +6464,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Alma_grande_e_nobil_core,_K.578_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 578"
         },
         {
             "k": "579",
@@ -5982,7 +6477,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Un_moto_di_gioia_mi_sento,_K.579_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 579"
         },
         {
             "k": "580",
@@ -5994,7 +6490,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Schon_lacht_der_holde_Fr%C3%BChling,_K.580_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 580"
         },
         {
             "k": "581",
@@ -6006,7 +6503,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Clarinet_Quintet_in_A_major,_K.581_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 581"
         },
         {
             "k": "582",
@@ -6018,7 +6516,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Chi_s%C3%A0,_chi_s%C3%A0,_qual_sia,_K.582_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 582"
         },
         {
             "k": "583",
@@ -6030,7 +6529,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Vado,_ma_dove%3F,_K.583_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 583"
         },
         {
             "k": "584",
@@ -6042,7 +6542,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Rivolgete_a_lui_lo_sguardo,_K.584_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 584"
         },
         {
             "k": "585",
@@ -6054,7 +6555,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_Minuets,_K.585_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 585"
         },
         {
             "k": "586",
@@ -6066,7 +6568,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/12_German_Dances,_K.586_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 586"
         },
         {
             "k": "587",
@@ -6078,7 +6581,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_C_major,_K.587_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1789
+            "year": 1789,
+            "id": "K. 587"
         },
         {
             "k": "588",
@@ -6090,7 +6594,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Cos%C3%AC_fan_tutte,_K.588_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 588"
         },
         {
             "k": "106",
@@ -6102,7 +6607,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Overture_and_3_Country_Dances,_K.106/588a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 106"
         },
         {
             "k": "236",
@@ -6114,7 +6620,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Andantino_in_E-flat_major,_K.236/588b_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1783
+            "year": 1783,
+            "id": "K. 236"
         },
         {
             "k": "589",
@@ -6126,7 +6633,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.22_in_B-flat_major,_K.589_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 589"
         },
         {
             "k": "590",
@@ -6138,7 +6646,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quartet_No.23_in_F_major,_K.590_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quartet",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 590"
         },
         {
             "k": "625",
@@ -6150,7 +6659,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Nun,_liebes_Weibchen,_K.625/592a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 625"
         },
         {
             "k": "593",
@@ -6162,7 +6672,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.5_in_D_major,_K.593_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 593"
         },
         {
             "k": "594",
@@ -6174,7 +6685,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_and_Allegro_in_F_minor,_K.594_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 594"
         },
         {
             "k": "595",
@@ -6186,7 +6698,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Piano_Concerto_No.27_in_B-flat_major,_K.595_(Mozart,_Wolfgang_Amadeus)",
             "type": "Piano Concerto",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 595"
         },
         {
             "k": "596",
@@ -6198,7 +6711,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Sehnsucht_nach_dem_Fr%C3%BChling,_K.596_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 596"
         },
         {
             "k": "597",
@@ -6210,7 +6724,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Im_Fr%C3%BChlingsanfang,_K.597_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 597"
         },
         {
             "k": "598",
@@ -6222,7 +6737,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Das_Kinderspiel,_K.598_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 598"
         },
         {
             "k": "599",
@@ -6234,7 +6750,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_Minuets,_K.599_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 599"
         },
         {
             "k": "600",
@@ -6246,7 +6763,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_German_Dances,_K.600_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 600"
         },
         {
             "k": "601",
@@ -6258,7 +6776,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/4_Minuets,_K.601_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 601"
         },
         {
             "k": "602",
@@ -6270,7 +6789,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/4_German_Dances,_K.602_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 602"
         },
         {
             "k": "603",
@@ -6282,7 +6802,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/2_Country_Dances,_K.603_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 603"
         },
         {
             "k": "604",
@@ -6294,7 +6815,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/2_Minuets,_K.604_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 604"
         },
         {
             "k": "605",
@@ -6306,7 +6828,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/3_German_Dances,_K.605_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 605"
         },
         {
             "k": "607",
@@ -6318,7 +6841,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_E-flat_major,_K.607/605a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 607"
         },
         {
             "k": "606",
@@ -6330,7 +6854,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/6_L%C3%A4ndlerische_T%C3%A4nze,_K.606_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 606"
         },
         {
             "k": "608",
@@ -6342,7 +6867,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Fantasia_in_F_minor,_K.608_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 608"
         },
         {
             "k": "609",
@@ -6354,7 +6880,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/5_Country_Dances,_K.609_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1787
+            "year": 1787,
+            "id": "K. 609"
         },
         {
             "k": "610",
@@ -6366,7 +6893,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Country_Dance_in_G_major,_K.610_(Mozart,_Wolfgang_Amadeus)",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 610"
         },
         {
             "k": "611",
@@ -6378,7 +6906,8 @@
             "notes": "",
             "link": "",
             "type": "Orchestral",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 611"
         },
         {
             "k": "612",
@@ -6390,7 +6919,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Per_questa_bella_mano,_K.612_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 612"
         },
         {
             "k": "613",
@@ -6402,7 +6932,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/8_Variations_on_%22Ein_Weib_ist_das_herrlichste_Ding%22,_K.613_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 613"
         },
         {
             "k": "614",
@@ -6414,7 +6945,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/String_Quintet_No.6_in_E-flat_major,_K.614_(Mozart,_Wolfgang_Amadeus)",
             "type": "String Quintet",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 614"
         },
         {
             "k": "616",
@@ -6426,7 +6958,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Andante_in_F_major,_K.616_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1790
+            "year": 1790,
+            "id": "K. 616"
         },
         {
             "k": "617",
@@ -6438,7 +6971,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_and_Rondo_in_C_minor,_K.617_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 617"
         },
         {
             "k": "356",
@@ -6450,7 +6984,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Adagio_in_C_major,_K.356/617a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Chamber",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 356"
         },
         {
             "k": "618",
@@ -6462,7 +6997,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Ave_verum_corpus,_K.618_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 618"
         },
         {
             "k": "619",
@@ -6474,7 +7010,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_ihr_des_unerme%C3%9Flichen_Weltalls,_K.619_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 619"
         },
         {
             "k": "620",
@@ -6486,7 +7023,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Die_Zauberfl%C3%B6te,_K.620_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 620"
         },
         {
             "k": "621",
@@ -6498,7 +7036,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/La_clemenza_di_Tito,_K.621_(Mozart,_Wolfgang_Amadeus)",
             "type": "Stage",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 621"
         },
         {
             "k": "622",
@@ -6510,7 +7049,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Clarinet_Concerto_in_A_major,_K.622_(Mozart,_Wolfgang_Amadeus)",
             "type": "Concerto",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 622"
         },
         {
             "k": "623",
@@ -6522,7 +7062,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Laut_verk%C3%BCnde_unsre_Freude,_K.623_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 623"
         },
         {
             "k": "626",
@@ -6534,7 +7075,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/Requiem_in_D_minor,_K.626_(Mozart,_Wolfgang_Amadeus)",
             "type": "Vocal",
-            "year": 1791
+            "year": 1791,
+            "id": "K. 626"
         },
         {
             "k": "624",
@@ -6546,7 +7088,8 @@
             "notes": "",
             "link": "https://imslp.org/wiki/36_Cadenzas,_K.624/626a_(Mozart,_Wolfgang_Amadeus)",
             "type": "Keyboard",
-            "year": 1784
+            "year": 1784,
+            "id": "K. 624"
         }
     ]
 }

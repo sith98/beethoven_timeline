@@ -111,7 +111,7 @@ const setOpusXPositions = (opusList) => {
 
     const typeToY = {}
     for (const [index, type] of order.entries()) {
-        typeToY[type] = dotsPosition - (order.length - index - 1) * yearWidth;
+        typeToY[type] = dotsPosition - (order.length - index - 1) * 0.035;
     }
 
     for (const [year, opusByType] of Object.entries(opusByYear)) {
@@ -244,7 +244,7 @@ const drawText = (canvas, ctx, hoveredOpus) => {
 
     const subItemFontSize = fontSize * 0.8;
     ctx.font = `${subItemFontSize}px sans-serif`;
-    for (let [i, text] of [hoveredOpus.k, hoveredOpus.key, hoveredOpus.forces].filter(t => t != "").entries()) {
+    for (let [i, text] of [hoveredOpus.id, hoveredOpus.key, hoveredOpus.forces, hoveredOpus.notes].filter(t => t != "").entries()) {
         const y = yPos + (i + 1) * subItemFontSize * 1.2;
         ctx.fillText(text, xPos, y);
     }
