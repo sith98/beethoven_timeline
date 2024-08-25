@@ -1,0 +1,3560 @@
+{
+    "genres": [
+        "Symphony",
+        "String Quartet",
+        "Piano Trio",
+        "Keyboard Sonata",
+        "Baryton",
+        "Concerto",
+        "Opera",
+        "Major Vocal Work"
+    ],
+    "colors": {
+        "String Quartet": "green",
+        "Concerto": "orange",
+        "Piano Trio": "blue",
+        "Major Vocal Work": "purple",
+        "Keyboard Sonata": "red",
+        "Symphony": "black",
+        "Opera": "deeppink",
+        "Baryton": "black"
+    },
+    "works": [
+        {
+            "id": "Hob.I:1",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1759,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:2",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:3",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:4",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:5",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:6",
+            "title": "Le Matin",
+            "forces": "Orchestra",
+            "year": 1761,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:7",
+            "title": "Le Midi",
+            "forces": "Orchestra",
+            "year": 1761,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:8",
+            "title": "Le Soir",
+            "forces": "Orchestra",
+            "year": 1761,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:9",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:10",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1760,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:11",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1761,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:12",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1763,
+            "key": "E major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:13",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1763,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:14",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:15",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:16",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1763,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:17",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1760,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:18",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1758,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:19",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1760,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:20",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1760,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:21",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:22",
+            "title": "The Philosopher",
+            "forces": "Orchestra",
+            "year": 1773,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:23",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:24",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:25",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:26",
+            "title": "Lamentatione",
+            "forces": "Orchestra",
+            "year": 1768,
+            "key": "D minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:27",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1758,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:28",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1765,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:29",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1765,
+            "key": "E major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:30",
+            "title": "Alleluia",
+            "forces": "Orchestra",
+            "year": 1765,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:31",
+            "title": "Hornsignal",
+            "forces": "Orchestra",
+            "year": 1765,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:32",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1760,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:33",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:34",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1765,
+            "key": "D minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:35",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1767,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:36",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:37",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1758,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:38",
+            "title": "The Echo",
+            "forces": "Orchestra",
+            "year": 1767,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:39",
+            "title": "Tempesta di mare",
+            "forces": "Orchestra",
+            "year": 1766,
+            "key": "G minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:40",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1763,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:41",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1768,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:42",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1771,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:43",
+            "title": "Mercury",
+            "forces": "Orchestra",
+            "year": 1770,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:44",
+            "title": "Trauer",
+            "forces": "Orchestra",
+            "year": 1772,
+            "key": "E minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:45",
+            "title": "Farewell",
+            "forces": "Orchestra",
+            "year": 1772,
+            "key": "F\u266f minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:46",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1772,
+            "key": "B major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:47",
+            "title": "Palindrome",
+            "forces": "Orchestra",
+            "year": 1772,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:48",
+            "title": "Maria Theresia",
+            "forces": "Orchestra",
+            "year": 1768,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:49",
+            "title": "La Passione",
+            "forces": "Orchestra",
+            "year": 1768,
+            "key": "F minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:50",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:51",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1773,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:52",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1772,
+            "key": "C minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:53",
+            "title": "L\u2019Imp\u00e9riale",
+            "forces": "Orchestra",
+            "year": 1778,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:54",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:55",
+            "title": "Schoolmaster",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:56",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:57",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:58",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1767,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:59",
+            "title": "Fire",
+            "forces": "Orchestra",
+            "year": 1768,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:60",
+            "title": "Il distratto",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:61",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1776,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:62",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1780,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:63",
+            "title": "La Roxelane",
+            "forces": "Orchestra",
+            "year": 1779,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:64",
+            "title": "Tempora mutantur",
+            "forces": "Orchestra",
+            "year": 1774,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:65",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1769,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:66",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1775,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:67",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1776,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:68",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1776,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:69",
+            "title": "Laudon",
+            "forces": "Orchestra",
+            "year": 1776,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:70",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1778,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:71",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1780,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:72",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1764,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:73",
+            "title": "La Chasse",
+            "forces": "Orchestra",
+            "year": 1782,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:74",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1780,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:75",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1779,
+            "key": "D major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:76",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1782,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:77",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1782,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:78",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1782,
+            "key": "C minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:79",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1784,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:80",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1784,
+            "key": "D minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:81",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1784,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:82",
+            "title": "L\u2019Ours",
+            "forces": "Orchestra",
+            "year": 1786,
+            "key": "C major",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:83",
+            "title": "La Poule",
+            "forces": "Orchestra",
+            "year": 1785,
+            "key": "G minor",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:84",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1786,
+            "key": "E\u266d major",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:85",
+            "title": "La Reine",
+            "forces": "Orchestra",
+            "year": 1786,
+            "key": "B\u266d major",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:86",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1786,
+            "key": "D major",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:87",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1785,
+            "key": "A major",
+            "notes": "Paris",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:88",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1787,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:89",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1787,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:90",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1788,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:91",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1788,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:92",
+            "title": "Oxford",
+            "forces": "Orchestra",
+            "year": 1789,
+            "key": "G major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:93",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1791,
+            "key": "D major",
+            "notes": "London No.2",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:94",
+            "title": "Surprise",
+            "forces": "Orchestra",
+            "year": 1791,
+            "key": "G major",
+            "notes": "London No.3",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:95",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1791,
+            "key": "C minor",
+            "notes": "London No.5",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:96",
+            "title": "The Miracle",
+            "forces": "Orchestra",
+            "year": 1791,
+            "key": "D major",
+            "notes": "London No.6",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:97",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1792,
+            "key": "C major",
+            "notes": "London No.1",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:98",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1792,
+            "key": "B\u266d major",
+            "notes": "London No.4",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:99",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1793,
+            "key": "E\u266d major",
+            "notes": "London No.10",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:100",
+            "title": "Military",
+            "forces": "Orchestra",
+            "year": 1794,
+            "key": "G major",
+            "notes": "London No.12",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:101",
+            "title": "The Clock",
+            "forces": "Orchestra",
+            "year": 1794,
+            "key": "D major",
+            "notes": "London No.11",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:102",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1794,
+            "key": "B\u266d major",
+            "notes": "London No.9",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:103",
+            "title": "Drum-roll",
+            "forces": "Orchestra",
+            "year": 1795,
+            "key": "E\u266d major",
+            "notes": "London No.8",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:104",
+            "title": "Salomon",
+            "forces": "Orchestra",
+            "year": 1795,
+            "key": "D major",
+            "notes": "London No.7",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:105",
+            "title": "Concertante",
+            "forces": "Orchestra",
+            "year": 1792,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:106",
+            "title": "",
+            "forces": "Orchestra",
+            "year": 1769,
+            "key": "D major",
+            "notes": "partially lost, first movement survives, often used as overture for Le Pescatrici",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:107",
+            "title": "\u201cA\u201d",
+            "forces": "Orchestra",
+            "year": 1759,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.I:108",
+            "title": "\u201cB\u201d",
+            "forces": "Orchestra",
+            "year": 1762,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Hob.III:1",
+            "title": "\u201cLa chasse\u201d",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.1 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:2",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.1 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:3",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.1 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:4",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.1 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:5",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.1 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:6",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.1 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:7",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "A major",
+            "notes": "6 String Quartets, Op.2 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:8",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "E major",
+            "notes": "6 String Quartets, Op.2 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:9",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.2 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:10",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "F major",
+            "notes": "6 String Quartets, Op.2 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:11",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.2 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:12",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1760,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.2 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:19",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.9 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:20",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.9 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:21",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.9 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:22",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "D minor",
+            "notes": "6 String Quartets, Op.9 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:23",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.9 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:24",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1769,
+            "key": "A major",
+            "notes": "6 String Quartets, Op.9 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:25",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "E major",
+            "notes": "6 String Quartets, Op.17 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:26",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "F major",
+            "notes": "6 String Quartets, Op.17 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:27",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.17 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:28",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "C minor",
+            "notes": "6 String Quartets, Op.17 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:29",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.17 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:30",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1771,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.17 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:31",
+            "title": "Sun Quartet No.1",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.20 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:32",
+            "title": "Sun Quartet No.2",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.20 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:33",
+            "title": "Sun Quartet No.3",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "G minor",
+            "notes": "6 String Quartets, Op.20 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:34",
+            "title": "Sun Quartet No.4",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.20 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:35",
+            "title": "Sun Quartet No.5",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "F minor",
+            "notes": "6 String Quartets, Op.20 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:36",
+            "title": "Sun Quartet No.6",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1772,
+            "key": "A major",
+            "notes": "6 String Quartets, Op.20 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:37",
+            "title": "Russian Quartet No.1",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "B minor",
+            "notes": "6 String Quartets, Op.33 No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:38",
+            "title": "Russian Quartet No.2, The Joke",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.33 No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:39",
+            "title": "Russian Quartet No.3, The Bird",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.33 No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:40",
+            "title": "Russian Quartet No.4",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.33 No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:41",
+            "title": "Russian Quartet No.5, How do you do?",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.33 No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:42",
+            "title": "Russian Quartet No.6",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1781,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.33 No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:43",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1785,
+            "key": "D minor",
+            "notes": "Op.42",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:44",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:45",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:46",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:47",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "F-sharp minor",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:48",
+            "title": "Dream",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "F major",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:49",
+            "title": "La grenouille",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1787,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.50 \u201cPrussian\u201d No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:50",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "B-flat major",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:51",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "C minor",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:52",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "E major",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:53",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "F major",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:54",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "A major",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:55",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "G minor",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:56",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1786,
+            "key": "E-flat major",
+            "notes": "7 String Quartets, Op.51 \u201cSeven Last Words of Christ\u201d No.7",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:57",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "C major",
+            "notes": "3 String Quartets, Op.54 \u201cTost I\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:58",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "G major",
+            "notes": "3 String Quartets, Op.54 \u201cTost I\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:59",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "E major",
+            "notes": "3 String Quartets, Op.54 \u201cTost I\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:60",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "A major",
+            "notes": "3 String Quartets, Op.55 \u201cTost II\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:61",
+            "title": "razor",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "F minor",
+            "notes": "3 String Quartets, Op.55 \u201cTost II\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:62",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1788,
+            "key": "B-flat major",
+            "notes": "3 String Quartets, Op.55 \u201cTost II\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:63",
+            "title": "The lark",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:64",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:65",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:66",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:67",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:68",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1790,
+            "key": "B minor",
+            "notes": "6 String Quartets, Op.64 \u201cTost III\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:69",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "B-flat major",
+            "notes": "3 String Quartets, Op.71 \u201cApponyi\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:70",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "D major",
+            "notes": "3 String Quartets, Op.71 \u201cApponyi\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:71",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "E-flat major",
+            "notes": "3 String Quartets, Op.71 \u201cApponyi\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:72",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "C major",
+            "notes": "3 String Quartets, Op.74 \u201cApponyi\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:73",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "F major",
+            "notes": "3 String Quartets, Op.74 \u201cApponyi\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:74",
+            "title": "The Horseman",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1793,
+            "key": "G minor",
+            "notes": "3 String Quartets, Op.74 \u201cApponyi\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:75",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "G major",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:76",
+            "title": "Fifths",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "D minor",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:77",
+            "title": "Emperor",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "C major",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.3",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:78",
+            "title": "Sunrise",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "B-flat major",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.4",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:79",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "D major",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.5",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:80",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1796,
+            "key": "E-flat major",
+            "notes": "6 String Quartets, Op.76 \u201cErdody\u201d No.6",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:81",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1799,
+            "key": "G major",
+            "notes": "2 String Quartets, Op.77 \u201cLobkowitz\u201d No.1",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:82",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1799,
+            "key": "F major",
+            "notes": "2 String Quartets, Op.77 \u201cLobkowitz\u201d No.2",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:83",
+            "title": "",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1803,
+            "key": "D minor",
+            "notes": "String Quartet in D minor, Op.103, incomplete",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.III:D3",
+            "title": "Divertimento",
+            "forces": "2 Violins, Viola, Cello",
+            "year": 1803,
+            "key": "D minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Hob.VIIa:1",
+            "title": "Violin Concerto in C major",
+            "forces": "Violin, Strings",
+            "year": 1765,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIa:2",
+            "title": "Violin Concerto in D major",
+            "forces": "Violin, Orchestra",
+            "year": 1765,
+            "key": "D major",
+            "notes": "lost",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIa:3",
+            "title": "Violin Concerto in A major",
+            "forces": "Violin, Orchestra",
+            "year": 1770,
+            "key": "A major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIa:4",
+            "title": "Violin Concerto in G major",
+            "forces": "Violin, Strings",
+            "year": 1769,
+            "key": "G major",
+            "notes": "possibly by Leopold Hofmann",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIb:1",
+            "title": "Cello Concerto No.1",
+            "forces": "Cello, Orchestra",
+            "year": 1763,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIb:2",
+            "title": "Cello Concerto No.2",
+            "forces": "Cello, Orchestra",
+            "year": 1783,
+            "key": "D major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIb:3",
+            "title": "Cello Concerto No.3",
+            "forces": "Cello, Orchestra",
+            "year": 1780,
+            "key": "C major",
+            "notes": "Most likely a misentry in Haydn's catalogue. Possibly never existed.",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIb:4",
+            "title": "Cello Concerto No.4",
+            "forces": "Cello, Strings",
+            "year": 1772,
+            "key": "D major",
+            "notes": "spurious, now attributed to Giovanni Battista Costanzi",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIb:g1",
+            "title": "Cello Concerto",
+            "forces": "Cello, Strings",
+            "year": 1773,
+            "key": "G minor",
+            "notes": "Not found in Haydn's personal catalog. The incipit is not in the style of Haydn, but more baroque.",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIId:1",
+            "title": "Horn Concerto",
+            "forces": "Horn, Strings",
+            "year": 1765,
+            "key": "D major",
+            "notes": "lost",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIId:3",
+            "title": "Horn Concerto No.1",
+            "forces": "Horn, 2 Oboes, Strings",
+            "year": 1762,
+            "key": "D major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIId:4",
+            "title": "Horn Concerto No.2",
+            "forces": "Horn, Strings",
+            "year": 1781,
+            "key": "D major",
+            "notes": "possibly by Michael Haydn",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIe:1",
+            "title": "Trumpet Concerto",
+            "forces": "Trumpet, Strings",
+            "year": 1796,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIf:1",
+            "title": "Flute Concerto",
+            "forces": "Flute, Strings",
+            "year": 1780,
+            "key": "D major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIh:1",
+            "title": "Concerto for 2 \"Lyra organizzata\"",
+            "forces": "2 Lyra, 2 Horns, Strings",
+            "year": 1786,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIh:2",
+            "title": "Concerto for 2 \"Lyra organizzata\"",
+            "forces": "2 Lyra, 2 Horns, Strings",
+            "year": 1786,
+            "key": "G major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIh:3",
+            "title": "Concerto for 2 \"Lyra organizzata\"",
+            "forces": "2 Lyra, 2 Horns, Strings",
+            "year": 1786,
+            "key": "G major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIh:4",
+            "title": "Concerto for 2 \"Lyra organizzata\"",
+            "forces": "2 Lyra, 2 Horns, Strings",
+            "year": 1786,
+            "key": "F major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.VIIh:5",
+            "title": "Concerto for 2 \"Lyra organizzata\"",
+            "forces": "2 Lyra, 2 Horns, Strings",
+            "year": 1786,
+            "key": "F major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.X:1",
+            "title": "Divertimento in D major",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:2",
+            "title": "Divertimento in D major",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:3",
+            "title": "Divertimento in A minor",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "A minor",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:4",
+            "title": "Divertimento in G major",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:5",
+            "title": "Divertimento in G major",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:6",
+            "title": "Divertimento in A major",
+            "forces": "Baryton, 2 Horns, Strings",
+            "year": 1775,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:7",
+            "title": "Divertimento in D major",
+            "forces": "Baryton, 2 Horns, Viola, Bass",
+            "year": 1768,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:9",
+            "title": "Divertimento in D major",
+            "forces": "2 Barytons, 2 Horns",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:10",
+            "title": "Divertimento in D major",
+            "forces": "Baryton, 2 Horns, Viola, Bass",
+            "year": 1768,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.X:11",
+            "title": "Divertimento in D major",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:40",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1767,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:41",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1767,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:42",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1767,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:53",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1767,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:57",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1768,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:76",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "C major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:79",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1769,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:80",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1769,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:94",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:95",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:96",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "B minor",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:105",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:106",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:107",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:110",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "C major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:111",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1772,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:114",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1775,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:123",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "G major",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:124",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XI:126",
+            "title": "Baryton Trio",
+            "forces": "Baryton, Viola, Cello",
+            "year": 1771,
+            "key": "C major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:1",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:4",
+            "title": "Baryton Duo",
+            "forces": "2 Barytons",
+            "year": 1770,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:5",
+            "title": "Baryton Duo",
+            "forces": "2 Barytons",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:6",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1770,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:7",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:8",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "C major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:9",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:10",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:11",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:13",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:14",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1770,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:18",
+            "title": "Baryton Duo",
+            "forces": "Baryton, Cello",
+            "year": 1770,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:19",
+            "title": "Baryton Duo",
+            "forces": "2 Barytons, Bass",
+            "year": 1765,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:20",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1765,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:21",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1765,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:22",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1765,
+            "key": "A major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:23",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1765,
+            "key": "G major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob.XII:24",
+            "title": "Baryton Duo",
+            "forces": "Baryton, unknown",
+            "year": 1775,
+            "key": "D major",
+            "notes": "",
+            "type": "Baryton"
+        },
+        {
+            "id": "Hob. XIII:1",
+            "title": "Concerto for Baryton",
+            "forces": "Baryton, Strings",
+            "year": 1770,
+            "key": "D major",
+            "notes": "lost or whereabouts unknown",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob. XIII:2",
+            "title": "Concerto for Baryton",
+            "forces": "Baryton, Strings",
+            "year": 1770,
+            "key": "D major",
+            "notes": "lost or whereabouts unknown",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob. XIII:3",
+            "title": "Concerto for Baryton",
+            "forces": "2 Barytons, Strings",
+            "year": 1770,
+            "key": "D major",
+            "notes": "lost or whereabouts unknown",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XV:1",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1766,
+            "key": "G minor",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:2",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1769,
+            "key": "F major",
+            "notes": "originally for Piano, Baryton and 2 Violins; see XIV:2;",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:3",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "C major",
+            "notes": "Op. 40 No. 1 ; most likely by Ignaz Pleyel",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:4",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "F major",
+            "notes": "Op. 40 No. 2 ; most likely by Ignaz Pleyel",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:5",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "G major",
+            "notes": "Op. 40 No. 3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:6",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "F major",
+            "notes": "Op. 43 No. 1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:7",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "D major",
+            "notes": "Op. 43 No. 2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:8",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1784,
+            "key": "B-flat major",
+            "notes": "Op. 43 No. 3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:9",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1785,
+            "key": "A major",
+            "notes": "Op. 27 No. 1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:10",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1785,
+            "key": "E-flat major",
+            "notes": "Op. 27 No. 2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:11",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1789,
+            "key": "E flat major",
+            "notes": "Op. 57 No. 1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:12",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1789,
+            "key": "E minor",
+            "notes": "Op. 57 No. 2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:13",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1789,
+            "key": "C minor",
+            "notes": "Op. 57 No. 3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:14",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1790,
+            "key": "A-flat major",
+            "notes": "Op. 39",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:15",
+            "title": "Piano Trio",
+            "forces": "Flute, Cello, Keyboard",
+            "year": 1790,
+            "key": "G major",
+            "notes": "Op. 67 No. 1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:16",
+            "title": "Piano Trio",
+            "forces": "Flute, Cello, Keyboard",
+            "year": 1790,
+            "key": "D major",
+            "notes": "Op. 67 No. 2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:17",
+            "title": "Piano Trio",
+            "forces": "Flute or Violin, Cello, Keyboard",
+            "year": 1790,
+            "key": "F major",
+            "notes": "Op. 73",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:18",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "A major",
+            "notes": "Op. 36 No. 1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:19",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "G minor",
+            "notes": "Op. 36 No. 2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:20",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "B-flat major",
+            "notes": "Op. 36 No. 3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:21",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "C major",
+            "notes": "Op.71 No.1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:22",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "E-flat major",
+            "notes": "Op.71 No.2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:23",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "D minor",
+            "notes": "Op.71 No.3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:24",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1795,
+            "key": "D major",
+            "notes": "Op.82 No.1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:25",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1795,
+            "key": "G major",
+            "notes": "Op.82 No.2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:26",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1795,
+            "key": "F-sharp minor",
+            "notes": "Op.82 No.3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:27",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1797,
+            "key": "C major",
+            "notes": "Op.86 No.1",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:28",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1797,
+            "key": "E major",
+            "notes": "Op.86 No.2",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:29",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1797,
+            "key": "E-flat major",
+            "notes": "Op.86 No.3",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:30",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1795,
+            "key": "E-flat major",
+            "notes": "Op.89",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:31",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1795,
+            "key": "E-flat minor",
+            "notes": "Op.53",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:32",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1794,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:33",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1759,
+            "key": "D major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:34",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1759,
+            "key": "E major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:35",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1759,
+            "key": "A major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:36",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1760,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:37",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1766,
+            "key": "F major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:38",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1766,
+            "key": "B-flat major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:40",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1760,
+            "key": "F major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XV:41",
+            "title": "Piano Trio",
+            "forces": "Violin, Cello, Keyboard",
+            "year": 1767,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Trio"
+        },
+        {
+            "id": "Hob.XVI:1",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1760,
+            "key": "C major",
+            "notes": "Keyboard Sonata No.1",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:2",
+            "title": "Partita",
+            "forces": "Keyboard",
+            "year": 1760,
+            "key": "B-flat major",
+            "notes": "Keyboard Sonata No.2",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:2a",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "D minor",
+            "notes": "for 4 hands",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:3",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1760,
+            "key": "C major",
+            "notes": "Keyboard Sonata No.3",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:4",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1760,
+            "key": "D major",
+            "notes": "Keyboard Sonata No.4",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:5",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1763,
+            "key": "A major",
+            "notes": "Keyboard Sonata No.5",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:6",
+            "title": "Partita",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "G major",
+            "notes": "Keyboard Sonata No.6",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:7",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "C major",
+            "notes": "Keyboard Sonata No.7",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:8",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "G major",
+            "notes": "Keyboard Sonata No.8",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:9",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "F major",
+            "notes": "Keyboard Sonata No.9",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:10",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "C major",
+            "notes": "Keyboard Sonata No.10",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:11",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "G major",
+            "notes": "Keyboard Sonata No.11, authorship uncertain",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:12",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "A major",
+            "notes": "Keyboard Sonata No.12",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:13",
+            "title": "Partita",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "E major",
+            "notes": "Keyboard Sonata No.13, authorship uncertain",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:14",
+            "title": "Partita",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "D major",
+            "notes": "Keyboard Sonata No.14",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:15",
+            "title": "Keyboard Sonata No.15",
+            "forces": "Keyboard",
+            "year": 1765,
+            "key": "C major",
+            "notes": "Haydn's authorship of this work is disputed. Arranged from Hob.II:11 (mvts.I, III, IV)",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:18",
+            "title": "Keyboard Sonata No.18",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "B-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:19",
+            "title": "Keyboard Sonata No.19",
+            "forces": "Keyboard",
+            "year": 1767,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:20",
+            "title": "Keyboard Sonata No.20",
+            "forces": "Keyboard",
+            "year": 1771,
+            "key": "C minor",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:21",
+            "title": "Keyboard Sonata No.21",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:22",
+            "title": "Keyboard Sonata No.22",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "E major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:23",
+            "title": "Keyboard Sonata No.23",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "F major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:24",
+            "title": "Keyboard Sonata No.24",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:25",
+            "title": "Keyboard Sonata No.25",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:26",
+            "title": "Keyboard Sonata No.26",
+            "forces": "Keyboard",
+            "year": 1773,
+            "key": "A major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:27",
+            "title": "Keyboard Sonata No.27",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "G major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:28",
+            "title": "Keyboard Sonata No.28",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:29",
+            "title": "Keyboard Sonata No.29",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "F major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:30",
+            "title": "Keyboard Sonata No.30",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "A major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:31",
+            "title": "Keyboard Sonata No.31",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "E major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:32",
+            "title": "Keyboard Sonata No.32",
+            "forces": "Keyboard",
+            "year": 1775,
+            "key": "B minor",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:33",
+            "title": "Keyboard Sonata No.33",
+            "forces": "Keyboard",
+            "year": 1777,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:34",
+            "title": "Keyboard Sonata No.34",
+            "forces": "Keyboard",
+            "year": 1778,
+            "key": "E minor",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:35",
+            "title": "Keyboard Sonata No.35",
+            "forces": "Keyboard",
+            "year": 1780,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:36",
+            "title": "Keyboard Sonata No.36",
+            "forces": "Keyboard",
+            "year": 1780,
+            "key": "C sharp minor",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:37",
+            "title": "Keyboard Sonata No.37",
+            "forces": "Keyboard",
+            "year": 1780,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:38",
+            "title": "Keyboard Sonata No.38",
+            "forces": "Keyboard",
+            "year": 1780,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:39",
+            "title": "Keyboard Sonata No.39",
+            "forces": "Keyboard",
+            "year": 1780,
+            "key": "G major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:40",
+            "title": "Keyboard Sonata No.40",
+            "forces": "Keyboard",
+            "year": 1784,
+            "key": "G major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:41",
+            "title": "Keyboard Sonata No.41",
+            "forces": "Keyboard",
+            "year": 1784,
+            "key": "B-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:42",
+            "title": "Keyboard Sonata No.42",
+            "forces": "Keyboard",
+            "year": 1784,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:43",
+            "title": "Keyboard Sonata No.43",
+            "forces": "Keyboard",
+            "year": 1783,
+            "key": "A-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:44",
+            "title": "Keyboard Sonata No.44",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "G minor",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:45",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "E-flat major",
+            "notes": "Keyboard Sonata No.45",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:46",
+            "title": "Divertimento",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "A-flat major",
+            "notes": "Keyboard Sonata No.46",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:47",
+            "title": "Keyboard Sonata No.47",
+            "forces": "Keyboard",
+            "year": 1766,
+            "key": "F major",
+            "notes": "authorship uncertain",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:48",
+            "title": "Keyboard Sonata No.48",
+            "forces": "Keyboard",
+            "year": 1789,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:49",
+            "title": "Keyboard Sonata No.49",
+            "forces": "Keyboard",
+            "year": 1790,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:50",
+            "title": "Keyboard Sonata No.50",
+            "forces": "Keyboard",
+            "year": 1794,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:51",
+            "title": "Keyboard Sonata No.51",
+            "forces": "Keyboard",
+            "year": 1794,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVI:52",
+            "title": "Keyboard Sonata No.52",
+            "forces": "Keyboard",
+            "year": 1794,
+            "key": "E-flat major",
+            "notes": "",
+            "type": "Keyboard Sonata"
+        },
+        {
+            "id": "Hob.XVIII:1",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard (Organ), Orchestra",
+            "year": 1756,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:2",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Orchestra",
+            "year": 1767,
+            "key": "D major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:3",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Strings",
+            "year": 1765,
+            "key": "F major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:4",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Orchestra",
+            "year": 1782,
+            "key": "G major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:5",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Strings",
+            "year": 1763,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:6",
+            "title": "Keyboard Concerto",
+            "forces": "Violin, Keyboard, Strings",
+            "year": 1766,
+            "key": "F major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:7",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Strings",
+            "year": 1766,
+            "key": "F major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:8",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Orchestra",
+            "year": 1766,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:9",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Strings",
+            "year": 1767,
+            "key": "G major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:10",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Strings",
+            "year": 1771,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XVIII:11",
+            "title": "Keyboard Concerto",
+            "forces": "Keyboard, Orchestra",
+            "year": 1782,
+            "key": "D major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Hob.XX:1",
+            "title": "The Seven Last Words of Christ Instrumental Version",
+            "forces": "Orchestra",
+            "year": 1785,
+            "key": "",
+            "notes": "Seven sonatas with sinfonia and an earthquake",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XX:2",
+            "title": "The Seven Last Words of Christ Choral Version",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1796,
+            "key": "",
+            "notes": "Revised version of Hob.XX:1 adding choir and bigger orchestra",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXa:1",
+            "title": "Stabat Mater",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1767,
+            "key": "G minor",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXI:1",
+            "title": "Il Ritorno di Tobia",
+            "forces": "SSATB Soloists, Mixed Choir, Orchestra",
+            "year": 1775,
+            "key": "C minor",
+            "notes": "revised in 1784 and again in 1806 by Sigismund Neukomm with Haydn's consent",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXI:2",
+            "title": "Die Sch\u00f6pfung",
+            "forces": "STB Soloists, Mixed Choir, Orchestra",
+            "year": 1797,
+            "key": "",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXI:3",
+            "title": "Die Jahreszeiten",
+            "forces": "STB Soloists, Mixed Choir, Orchestra",
+            "year": 1801,
+            "key": "",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXI:4",
+            "title": "Die Sieben Letzten Worte (The Seven Last Words of Christ)",
+            "forces": "SCTB Soloists, Mixed Choir, Orchestra",
+            "year": 1796,
+            "key": "",
+            "notes": "Oratorio version of Hob. XX:1 also labled as Hob. XX:2",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:1",
+            "title": "Missa brevis",
+            "forces": "2 Sopranos, Mixed Choir, Strings",
+            "year": 1750,
+            "key": "F major",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:2",
+            "title": "Missa Sunt bona mixta malis",
+            "forces": "Mixed Choir a capella",
+            "year": 1770,
+            "key": "D minor",
+            "notes": "fragment",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:4",
+            "title": "Grosse Orgelmesse",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1766,
+            "key": "E-flat major",
+            "notes": "Missa in honorem Beatissim\u00e6 Virginis Mari\u00e6",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:5",
+            "title": "Missa Cellensis",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1766,
+            "key": "C major",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:6",
+            "title": "Missa Sancti Nicolai",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1772,
+            "key": "G major",
+            "notes": "Nicolaimesse",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:7",
+            "title": "Kleine Orgelmesse",
+            "forces": "Soprano, Mixed Choir, Strings",
+            "year": 1778,
+            "key": "B-flat major",
+            "notes": "Missa brevis Sancti Joannis de Deo",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:8",
+            "title": "Mariazellermesse",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1782,
+            "key": "C major",
+            "notes": "Missa Cellensis",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:9",
+            "title": "Mass in Time of War",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1796,
+            "key": "C major",
+            "notes": "Missa in tempore belli  ; Paukenmesse",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:10",
+            "title": "Heiligmesse",
+            "forces": "SSATBB Soloists, Mixed Choir, Orchestra",
+            "year": 1796,
+            "key": "B-flat major",
+            "notes": "Missa sancti Bernardi de Offida",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:11",
+            "title": "Nelson Mass",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1798,
+            "key": "D minor",
+            "notes": "Missa in Angustiis ; Nelsonmesse ; Imperial Mass ; Coronation Mass",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:12",
+            "title": "Theresa Mass",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1799,
+            "key": "B-flat major",
+            "notes": "Theresienmesse",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:13",
+            "title": "Creation Mass",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1801,
+            "key": "B-flat major",
+            "notes": "Sch\u00f6pfungsmesse",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXII:14",
+            "title": "Harmony mass",
+            "forces": "SATB Soloists, Mixed Choir, Orchestra",
+            "year": 1802,
+            "key": "B-flat major",
+            "notes": "Harmoniemesse",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXIIb:1",
+            "title": "Libera me",
+            "forces": "Mixed Choir, Strings",
+            "year": 1790,
+            "key": "F major",
+            "notes": "",
+            "type": "Major Vocal Work"
+        },
+        {
+            "id": "Hob.XXVIII:1",
+            "title": "Acide",
+            "forces": "2 Sopranos, Alto, Tenor, Bass, Orchestra",
+            "year": 1762,
+            "key": "C major",
+            "notes": "1 Act",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:2",
+            "title": "La Canterina",
+            "forces": "3 Sopranos, Tenor, Orchestra",
+            "year": 1766,
+            "key": "",
+            "notes": "2 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:3",
+            "title": "Lo Speziale",
+            "forces": "2 Sopranos, 2 Tenors, Orchestra",
+            "year": 1768,
+            "key": "G major",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:4",
+            "title": "Le Pescatrici",
+            "forces": "SAATTB Soloists, Mixed Choir, Orchestra",
+            "year": 1769,
+            "key": "D major",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:5",
+            "title": "L'Infedelt\u00e0 delusa",
+            "forces": "2 Sopranos, 2 Tenors, Bass, Orchestra",
+            "year": 1773,
+            "key": "C major",
+            "notes": "2 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:6",
+            "title": "L'Incontro improvviso",
+            "forces": "SSSTTB Soloists, Mixed Choir, Orchestra",
+            "year": 1775,
+            "key": "",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:7",
+            "title": "Il Mondo della Luna",
+            "forces": "SSSATTB Soloists, Mixed Choir, Orchestra",
+            "year": 1777,
+            "key": "",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:8",
+            "title": "La vera Costanza",
+            "forces": "3 Sopranos, 3 Tenors, Bass, Orchestra",
+            "year": 1778,
+            "key": "",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:8a",
+            "title": "Laurette",
+            "forces": "3 Sopranos, 3 Tenors, Bass, Orchestra",
+            "year": 1791,
+            "key": "",
+            "notes": "A reworking of \"La vera Costanza\", in different order, without recitatives and with other Haydn works added. Published by Sieber in 1791.",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:9",
+            "title": "L'Isola disabitata",
+            "forces": "2 Sopranos, Tenor, Bass, Orchestra",
+            "year": 1802,
+            "key": "",
+            "notes": "2 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:10",
+            "title": "La Fedelt\u00e0 premiata",
+            "forces": "4 Sopranos, 2 Tenors, 2 Basses, Orchestra",
+            "year": 1780,
+            "key": "D major",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:11",
+            "title": "Orlando Paladino",
+            "forces": "SSSTTTTBB Soloists, Mixed Choir, Orchestra",
+            "year": 1782,
+            "key": "",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:12",
+            "title": "Armida",
+            "forces": "2 Sopranos, 3 Tenors, Bass, Orchestra",
+            "year": 1783,
+            "key": "",
+            "notes": "3 Acts",
+            "type": "Opera"
+        },
+        {
+            "id": "Hob.XXVIII:13",
+            "title": "L'Anima del Filosofo (Orfeo ed Euridice)",
+            "forces": "SSTBBB Soloists, Mixed Choir, Orchestra",
+            "year": 1791,
+            "key": "",
+            "notes": "4 Acts",
+            "type": "Opera"
+        }
+    ]
+}
