@@ -11,58 +11,7 @@ const dotsPosition = 0.85;
 const beginMiddle = 1804;
 const beginLate = 1815;
 
-const Type = Object.freeze({
-    KEYBOARD: "Keyboard",
-    CHAMBER: "Chamber",
-    ORCHESTRAL: "Orchestral",
-    VOCAL: "Vocal",
-    STAGE: "Stage",
-    CONCERTO: "Concerto",
-    STRING_QUARTET: "Quartet",
-    PIANO_CHAMBER: "Piano Chamber",
-    SYMPHONY: "Symphony",
-    PIANO_SONATA: "Sonata",
-    SERENADE: "Serenade",
-    STRING_QUINTET: "String Quintet",
-    PIANO_CONCERTO: "Piano Concerto",
-    VIOLIN_SONATA: "Violin Sonata"
-    // OTHER: "",
-});
-const defaultType = Type.OTHER;
-const colors = {
-    [Type.KEYBOARD]: "crimson",
-    [Type.CHAMBER]: "green",
-    [Type.ORCHESTRAL]: "yellow",
-    [Type.VOCAL]: "blue",
-    [Type.STAGE]: "purple",
-    [Type.CONCERTO]: "orange",
-    [Type.STRING_QUARTET]: "mediumblue",
-    [Type.PIANO_CHAMBER]: "darkcyan",
-    [Type.SYMPHONY]: "black",
-    [Type.PIANO_SONATA]: "crimson",
-    [Type.SERENADE]: "goldenrod",
-    [Type.STRING_QUINTET]: "midnightblue",
-    [Type.PIANO_CONCERTO]: "orangered",
-    [Type.VIOLIN_SONATA]: "green",
-    // [Type.OTHER]: "#999",
-};
-
-const order = [
-    Type.STAGE,
-    Type.SYMPHONY,
-    Type.PIANO_CONCERTO,
-    Type.CONCERTO,
-    Type.PIANO_SONATA,
-    Type.STRING_QUARTET,
-    Type.STRING_QUINTET,
-    Type.PIANO_CHAMBER,
-    Type.VIOLIN_SONATA,
-    Type.SERENADE,
-    Type.CHAMBER,
-    Type.ORCHESTRAL,
-    Type.KEYBOARD,
-    Type.VOCAL
-]
+let colors, order;
 
 const overrideToDefault = [
     "Op. 118",
@@ -75,44 +24,23 @@ const main = async () => {
     const ctx = canvas.getContext("2d");
 
     // load opus list
-    const opusList = await fetch("mozart_works.json").then(res => res.json());
+    const data = await fetch("mozart_works.json").then(res => res.json());
+    const opusList = data.works;
+    colors = data.colors;
+    order = data.genres;
     // setOpusTypes(opusList);
     start = Infinity;
     end = -Infinity;
-    const genres = new Set();
     for (const opus of opusList) {
-        opus.year = opus.date;
-        opus.type = opus.genre;
-        if (opus.title.includes("Piano Concerto")) {
-            opus.type = Type.PIANO_CONCERTO;
-        } else if (opus.title.includes("Concerto")) {
-            opus.type = Type.CONCERTO;
-        } else if (opus.title.includes("String Quartet")) {
-            opus.type = Type.STRING_QUARTET;
-        } else if (opus.title.includes("Violin Sonata")) {
-            opus.type = Type.VIOLIN_SONATA;
-        } else if (opus.title.includes("Symphony")) {
-            opus.type = Type.SYMPHONY;
-        } else if (opus.type === Type.KEYBOARD && opus.title.includes("Sonata")) {
-            opus.type = Type.PIANO_SONATA;
-        } else if (opus.type === Type.CHAMBER && opus.forces.includes("pf")) {
-            opus.type = Type.PIANO_CHAMBER;
-        } else if (opus.title.includes("Serenade")) {
-            opus.type = Type.SERENADE;
-        } else if (opus.title.includes("String Quintet")) {
-            opus.type = Type.STRING_QUINTET;
-        }
-
-        genres.add(opus.genre)
         start = Math.min(start, opus.year)
         end = Math.max(end, opus.year)
         opus.subItems = [];
     }
+
     start -= 1;
     end += 1;
     nYears = end - start + 1;
 
-    console.log(genres)
 
     setOpusXPositions(opusList);
     opusList.sort((a, b) => a.x - b.x);
@@ -161,20 +89,6 @@ const loadOpusList = async () => {
 }
 
 
-const setOpusTypes = (opusList) => {
-    for (const opus of opusList) {
-        opus.type = defaultType;
-        if (overrideToDefault.some(value => opus.title.includes(value))) {
-            continue;
-        }
-        for (const [key, value] of Object.entries(Type)) {
-            if (opus.title.toLowerCase().includes(value)) {
-                opus.type = value;
-                break;
-            }
-        }
-    }
-}
 
 const setOpusXPositions = (opusList) => {
     const types = new Set();
@@ -215,7 +129,6 @@ const setOpusXPositions = (opusList) => {
 }
 
 const findHoveredOpus = (canvas, opusList, pos) => {
-    console.log(pos)
     for (const opus of opusList) {
         const x = opus.x;
         const y = opus.y;
@@ -284,7 +197,7 @@ const drawOpusList = (canvas, ctx, opusList, hoveredOpus) => {
     for (const opus of opusList) {
         // draw circle
         // draw circles of other types half transparent
-        ctx.globalAlpha = opus.type === hoveredType || hoveredType === null || hoveredType === defaultType ? 1 : 0.3;
+        ctx.globalAlpha = opus.type === hoveredType || hoveredType === null ? 1 : 0.3;
         ctx.fillStyle = colors[opus.type];
 
         const x = opus.x * canvas.width;
