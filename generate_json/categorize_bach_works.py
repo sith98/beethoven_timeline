@@ -7,6 +7,8 @@ genres = [
     "Chorale Preludes",
     "Major Piano Work",
     "Keyboard",
+    "Orchestral Works",
+    "Chamber Works",
     "Contrapunctal",
 ]
 
@@ -43,13 +45,15 @@ def main():
             "alternative version of BWV",
             "rev. as",
             "Johann Ernst Eberlin",
-            # Individual Cantatas appear seperately
-            "Weihnachts-Oratorium",
         ]:
             if w in notes:
                 found = True
                 break
         if "lost" in notes and not "lost, but" in notes:
+            found = True
+
+        # category
+        if work["title"].endswith(":"):
             found = True
 
         if not found:
@@ -86,6 +90,9 @@ def main():
             work["type"] = "Keyboard"
         elif cat[0] in ["Canons", "Late Contrapuntal Works"]:
             work["type"] = "Contrapunctal"
+
+        if cat[0] in ["Chamber Works", "Orchestral Works"]:
+            work["type"] = cat[0]
 
     for cat in minor_categories:
         print(cat)
