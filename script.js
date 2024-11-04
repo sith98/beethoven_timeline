@@ -23,8 +23,21 @@ const main = async () => {
     document.body.prepend(canvas);
     const ctx = canvas.getContext("2d");
 
+    const composers = await fetch("composers.json").then(res => res.json());
+
+    // get parameter composer
+    const urlParams = new URLSearchParams(window.location.search);
+    const composer = urlParams.get('composer') ?? "mozart";
+    urlParams.set('composer', composer);
+    window.history.replaceState({}, '', `${location.pathname}?${urlParams}`);
+
+    if (!(composer in composers)) {
+        console.error("Unkonwn composer");
+        return;
+    }
+
     // load opus list
-    const data = await fetch("mozart_works.json").then(res => res.json());
+    const data = await fetch(composers[composer]).then(res => res.json());
     const opusList = data.works;
     colors = data.colors;
     order = data.genres;
