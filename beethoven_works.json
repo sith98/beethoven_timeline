@@ -1,0 +1,1547 @@
+{
+    "genres": [
+        "Symphony",
+        "Piano Sonata",
+        "String Quartet",
+        "Concerto",
+        "Orchestral",
+        "Keyboard",
+        "Chamber",
+        "Stage",
+        "Vocal"
+    ],
+    "colors": {
+        "Piano Sonata": "red",
+        "String Quartet": "green",
+        "Symphony": "blue",
+        "Chamber": "lightgreen",
+        "Orchestral": "lightblue",
+        "Concerto": "purple",
+        "Vocal": "grey",
+        "Stage": "black",
+        "Keyboard": "pink"
+    },
+    "works": [
+        {
+            "id": "Op. 1, No. 1",
+            "title": "Piano Trio",
+            "forces": "vn vc pf",
+            "year": 1792,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 1, No. 2",
+            "title": "Piano Trio",
+            "forces": "vn vc pf",
+            "year": 1793,
+            "key": "G major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 1, No. 3",
+            "title": "Piano Trio",
+            "forces": "vn vc pf",
+            "year": 1793,
+            "key": "C minor",
+            "notes": "arr. for 2vn va vc as Op.104",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 10, No. 1",
+            "title": "Piano Sonata No.5",
+            "forces": "pf",
+            "year": 1796,
+            "key": "C minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 10, No. 2",
+            "title": "Piano Sonata No.6",
+            "forces": "pf",
+            "year": 1796,
+            "key": "F major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 10, No. 3",
+            "title": "Piano Sonata No.7",
+            "forces": "pf",
+            "year": 1798,
+            "key": "D major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 100",
+            "title": "Merkenstein",
+            "forces": "2vvv pf",
+            "year": 1815,
+            "key": "F major",
+            "notes": "2nd setting of WoO 144",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 101",
+            "title": "Piano Sonata No.28",
+            "forces": "pf",
+            "year": 1816,
+            "key": "A major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 102, No. 1",
+            "title": "Cello Sonata No.4",
+            "forces": "vc pf",
+            "year": 1815,
+            "key": "C major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 102, No. 2",
+            "title": "Cello Sonata No.5",
+            "forces": "vc pf",
+            "year": 1815,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 103",
+            "title": "Wind Octet",
+            "forces": "2ob 2cl 2bn 2hn",
+            "year": 1792,
+            "key": "E\u266d major",
+            "notes": "revised for string quintet as Op.4",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 104",
+            "title": "String Quintet",
+            "forces": "2vn 2va vc",
+            "year": 1817,
+            "key": "C minor",
+            "notes": "arrangement of Op.1/3",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 105",
+            "title": "National Airs with Variations (6)",
+            "forces": "fl/vn pf",
+            "year": 1818,
+            "key": "",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 106",
+            "title": "Piano Sonata No.29 (\"Hammerklavier\")",
+            "forces": "pf",
+            "year": 1817,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 107",
+            "title": "National Airs with Variations (10):",
+            "forces": "fl/vn pf",
+            "year": 1818,
+            "key": "",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 108",
+            "title": "Scottish Songs (25):",
+            "forces": "v vn vc pf",
+            "year": 1816,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 109",
+            "title": "Piano Sonata No.30",
+            "forces": "pf",
+            "year": 1820,
+            "key": "E major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 11",
+            "title": "Trio in B-flat major ('Gassenhauer')",
+            "forces": "cl/vn vc pf",
+            "year": 1798,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 110",
+            "title": "Piano Sonata No.31",
+            "forces": "pf",
+            "year": 1822,
+            "key": "A\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 111",
+            "title": "Piano Sonata No.32",
+            "forces": "pf",
+            "year": 1822,
+            "key": "C minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 112",
+            "title": "Meeresstille und gl\u00fcckliche Fahrt(Calm Sea & Prosperous Voyage)",
+            "forces": "ch orch",
+            "year": 1814,
+            "key": "D major",
+            "notes": "",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 113",
+            "title": "Die Ruinen von Athen (The Ruins of Athens), music to Kotzebue's drama",
+            "forces": "vv ch orch",
+            "year": 1811,
+            "key": "",
+            "notes": "1st version of Op. 114",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 114",
+            "title": "Die Ruinen von Athen (The Ruins of Athens), music to Kotzebue's drama",
+            "forces": "vv ch orch",
+            "year": 1822,
+            "key": "",
+            "notes": "2nd version of Op. 113; includes Op. 124, WoO 98",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 115",
+            "title": "Overture, 'Zur Namensfeier' (Name-Day)",
+            "forces": "orch",
+            "year": 1814,
+            "key": "C major",
+            "notes": "",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 116",
+            "title": "Tremate, empi tremate",
+            "forces": "3vv orch",
+            "year": 1808,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 117",
+            "title": "K\u00f6nig Stephan (King Stephen), music to Kotzebue's play",
+            "forces": "vv ch orch",
+            "year": 1811,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 118",
+            "title": "Elegischer Gesang (\"Sanft wie du lebtest\")",
+            "forces": "4vv 2vn va vc",
+            "year": 1814,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 119",
+            "title": "Bagatelles (11)",
+            "forces": "pf",
+            "year": 1821,
+            "key": "",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 12, No. 1",
+            "title": "Violin Sonata No.1",
+            "forces": "vn pf",
+            "year": 1798,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 12, No. 2",
+            "title": "Violin Sonata No.2",
+            "forces": "vn pf",
+            "year": 1798,
+            "key": "A major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 12, No. 3",
+            "title": "Violin Sonata No.3",
+            "forces": "vn pf",
+            "year": 1798,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 120",
+            "title": "Ver\u00e4nderungen \u00fcber einen Walzer ('Diabelli Variations')",
+            "forces": "pf",
+            "year": 1821,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 121a",
+            "title": "Variations on 'Ich bin der Schneider Kakadu' (10)",
+            "forces": "vn va pf",
+            "year": 1810,
+            "key": "G major",
+            "notes": "on a theme from Die Schwestern von Prag by Wenzel M\u00fcller",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 121b",
+            "title": "Opferlied (\"Die Flamme lodert\")",
+            "forces": "3vv ch orch",
+            "year": 1824,
+            "key": "E major",
+            "notes": "4th version of Op. 121b, WoO 126, Hess 91, Hess 145",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 122",
+            "title": "Bundeslied (\"In allen guten Stunden\")",
+            "forces": "2vv ch ww br",
+            "year": 1823,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 123",
+            "title": "Missa solemnis",
+            "forces": "4vv ch org orch",
+            "year": 1821,
+            "key": "D major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 124",
+            "title": "Die Weihe des Hauses, overture",
+            "forces": "orch",
+            "year": 1822,
+            "key": "C major",
+            "notes": "overture to Op.114",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 125",
+            "title": "Symphony No.9",
+            "forces": "sop alt ten bass ch",
+            "year": 1820,
+            "key": "D minor",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 126",
+            "title": "Bagatelles(6)",
+            "forces": "pf",
+            "year": 1824,
+            "key": "",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 127",
+            "title": "String Quartet No.12",
+            "forces": "2vn va vc",
+            "year": 1824,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 128",
+            "title": "Der Ku\u00df(\"Ich var bei Chloen ganz allein\")",
+            "forces": "v pf",
+            "year": 1810,
+            "key": "A major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 129",
+            "title": "Rondo a capriccio ('Rage Over a Lost Penny')",
+            "forces": "pf",
+            "year": 1795,
+            "key": "G major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 13",
+            "title": "Piano Sonata No.8 ('Path\u00e9tique')",
+            "forces": "pf",
+            "year": 1798,
+            "key": "C minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 130",
+            "title": "String Quartet No.13",
+            "forces": "2vn va vc",
+            "year": 1826,
+            "key": "B\u266d major",
+            "notes": "2nd version",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 131",
+            "title": "String Quartet No.14",
+            "forces": "2vn va vc",
+            "year": 1826,
+            "key": "C\u266f minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 132",
+            "title": "String Quartet No.15 ('Heiliger Dankgesang')",
+            "forces": "2vn va vc",
+            "year": 1824,
+            "key": "A minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 133",
+            "title": "Gro\u00dfe Fuge",
+            "forces": "2vn va vc",
+            "year": 1826,
+            "key": "B\u266d major",
+            "notes": "finale to 1st version of Op.130; arr.for pf4h as Op.134",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 134",
+            "title": "Gro\u00dfe Fuge",
+            "forces": "pf4h",
+            "year": 1826,
+            "key": "B\u266d major",
+            "notes": "arr. from Op.133",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 135",
+            "title": "String Quartet No.16",
+            "forces": "2vn va vc",
+            "year": 1826,
+            "key": "F major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 136",
+            "title": "Der glorreiche Augenblick (The Glorious Moment)",
+            "forces": "4vv ch orch",
+            "year": 1814,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 137",
+            "title": "Fugue in D major",
+            "forces": "2vn 2va vc",
+            "year": 1817,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 138",
+            "title": "Leonora Overture No.1",
+            "forces": "orch",
+            "year": 1807,
+            "key": "C major",
+            "notes": "3rd version of Opp. 72a, 72b",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 14, No. 1",
+            "title": "Piano Sonata No.9",
+            "forces": "pf",
+            "year": 1798,
+            "key": "E major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 14, No. 2",
+            "title": "Piano Sonata No.10",
+            "forces": "pf",
+            "year": 1799,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 15",
+            "title": "Piano Concerto No.1",
+            "forces": "pf orch",
+            "year": 1798,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 16",
+            "title": "Quintet in E-flat major",
+            "forces": "ob cl bn hn pf",
+            "year": 1796,
+            "key": "E\u266d major",
+            "notes": "arr for vn va vc pf as Op.16a",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 16a",
+            "title": "Quintet in E-flat major",
+            "forces": "vn va vc pf",
+            "year": 1796,
+            "key": "E\u266d major",
+            "notes": "arr of Op.16",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 17",
+            "title": "Horn Sonata",
+            "forces": "hn pf",
+            "year": 1800,
+            "key": "F major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 18, No. 1",
+            "title": "String Quartet No.1",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "F major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 18, No. 2",
+            "title": "String Quartet No.2",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "G major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 18, No. 3",
+            "title": "String Quartet No.3",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "D major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 18, No. 4",
+            "title": "String Quartet No.4",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "C minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 18, No. 5",
+            "title": "String Quartet No.5",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "A major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 18, No. 6",
+            "title": "String Quartet No.6",
+            "forces": "2vn va vc",
+            "year": 1799,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 19",
+            "title": "Piano Concerto No.2",
+            "forces": "pf orch",
+            "year": 1794,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 2, No. 1",
+            "title": "Piano Sonata No.1",
+            "forces": "pf",
+            "year": 1794,
+            "key": "F minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 2, No. 2",
+            "title": "Piano Sonata No.2",
+            "forces": "pf",
+            "year": 1794,
+            "key": "A major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 2, No. 3",
+            "title": "Piano Sonata No.3",
+            "forces": "pf",
+            "year": 1794,
+            "key": "C major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 20",
+            "title": "Septet",
+            "forces": "cl bn hn vn va vc db",
+            "year": 1799,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 21",
+            "title": "Symphony No.1",
+            "forces": "orch",
+            "year": 1800,
+            "key": "C major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 22",
+            "title": "Piano Sonata No.11",
+            "forces": "pf",
+            "year": 1800,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 23",
+            "title": "Violin Sonata No.4",
+            "forces": "vn pf",
+            "year": 1800,
+            "key": "A minor",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 24",
+            "title": "Violin Sonata No.5",
+            "forces": "vn pf",
+            "year": 1800,
+            "key": "F major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 25",
+            "title": "Serenade",
+            "forces": "For flute, violin, viola",
+            "year": 1801,
+            "key": "D major",
+            "notes": "arr. for fl pf as Op.41",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 26",
+            "title": "Piano Sonata No.12 ('Funeral March')",
+            "forces": "pf",
+            "year": 1800,
+            "key": "A\u266d major",
+            "notes": "movt. III arr. for orch as WoO 96/4",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 27, No. 1",
+            "title": "Piano Sonata No.13 ('Quasi una fantasia')",
+            "forces": "pf",
+            "year": 1800,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 27, No. 2",
+            "title": "Piano Sonata No.14 ('Moonlight')",
+            "forces": "pf",
+            "year": 1801,
+            "key": "C\u266f minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 28",
+            "title": "Piano Sonata No.15 ('Pastoral')",
+            "forces": "pf",
+            "year": 1801,
+            "key": "D major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 29",
+            "title": "String Quintet in C major ('Storm')",
+            "forces": "2vn 2va vc",
+            "year": 1801,
+            "key": "C major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 3",
+            "title": "String Trio",
+            "forces": "vn va vc",
+            "year": 1794,
+            "key": "E\u266d major",
+            "notes": "see also Op.64",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 30, No. 1",
+            "title": "Violin Sonata No.6",
+            "forces": "vn pf",
+            "year": 1802,
+            "key": "A major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 30, No. 2",
+            "title": "Violin Sonata No.7 ('Eroica')",
+            "forces": "vn pf",
+            "year": 1802,
+            "key": "C minor",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 30, No. 3",
+            "title": "Violin Sonata No.8",
+            "forces": "vn pf",
+            "year": 1802,
+            "key": "G major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 31, No. 1",
+            "title": "Piano Sonata No.16",
+            "forces": "pf",
+            "year": 1802,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 31, No. 2",
+            "title": "Piano Sonata No.17 ('Tempest')",
+            "forces": "pf",
+            "year": 1802,
+            "key": "D minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 31, No. 3",
+            "title": "Piano Sonata No.18 ('Hunt')",
+            "forces": "pf",
+            "year": 1802,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 32",
+            "title": "An die Hoffnung (\"Die du so gern in heilgen N\u00e4chten feierst\")",
+            "forces": "v pf",
+            "year": 1804,
+            "key": "",
+            "notes": "1st setting; see also Op.94",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 33",
+            "title": "Bagatelles (7)",
+            "forces": "pf",
+            "year": 1802,
+            "key": "",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 34",
+            "title": "Variations (6)",
+            "forces": "pf",
+            "year": 1802,
+            "key": "F major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 35",
+            "title": "Variations and Fugue ('Eroica Variations')",
+            "forces": "pf",
+            "year": 1802,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 36",
+            "title": "Symphony No.2",
+            "forces": "orch",
+            "year": 1802,
+            "key": "D major",
+            "notes": "also arr. for vn vc pf",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 36",
+            "title": "Symphony No.2",
+            "forces": "vn vc pf",
+            "year": 1805,
+            "key": "D major",
+            "notes": "arr. of version for orch",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 37",
+            "title": "Piano Concerto No.3",
+            "forces": "pf orch",
+            "year": 1802,
+            "key": "C minor",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 38",
+            "title": "Trio",
+            "forces": "cl/vn vc pf",
+            "year": 1802,
+            "key": "E\u266d major",
+            "notes": "arr. of Op. 20",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 39",
+            "title": "Preludes (2) ('par tous les 12 tons majeurs')",
+            "forces": "pf/org",
+            "year": 1789,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 4",
+            "title": "String Quintet",
+            "forces": "2vn 2va vc",
+            "year": 1795,
+            "key": "E\u266d major",
+            "notes": "based on Op.103; see also Op.63",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 40",
+            "title": "Romance",
+            "forces": "vn orch",
+            "year": 1801,
+            "key": "G major",
+            "notes": "",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 43",
+            "title": "Die Gesch\u00f6pfe des Prometheus (The Creatures of Prometheus)",
+            "forces": "orch",
+            "year": 1800,
+            "key": "",
+            "notes": "",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 44",
+            "title": "Variations (14)",
+            "forces": "vn va pf",
+            "year": 1792,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 45",
+            "title": "Marches (3)",
+            "forces": "pf4h",
+            "year": 1803,
+            "key": "",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 46",
+            "title": "Adelaide (\"Einsam wandelt dein Freund\")",
+            "forces": "v pf",
+            "year": 1794,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 47",
+            "title": "Violin Sonata No.9 (\"Kreutzer\")",
+            "forces": "vn pf",
+            "year": 1802,
+            "key": "A major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 48",
+            "title": "Lieder (6)",
+            "forces": "v pf",
+            "year": 1802,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 49, No. 1",
+            "title": "Piano Sonata No.19",
+            "forces": "pf",
+            "year": 1797,
+            "key": "G minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 49, No. 2",
+            "title": "Piano Sonata No.20",
+            "forces": "pf",
+            "year": 1796,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 5, No. 1",
+            "title": "Cello Sonata No.1",
+            "forces": "vc pf",
+            "year": 1796,
+            "key": "F major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 5, No. 2",
+            "title": "Cello Sonata No.2",
+            "forces": "vc pf",
+            "year": 1796,
+            "key": "G minor",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 50",
+            "title": "Romance",
+            "forces": "vn orch",
+            "year": 1798,
+            "key": "F major",
+            "notes": "",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 51",
+            "title": "Rondos (2)",
+            "forces": "pf",
+            "year": 1796,
+            "key": "",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 52",
+            "title": "Lieder (8):",
+            "forces": "v pf",
+            "year": 1789,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 53",
+            "title": "Piano Sonata No.21 (\"Waldstein\")",
+            "forces": "pf",
+            "year": 1804,
+            "key": "C major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 54",
+            "title": "Piano Sonata No.22",
+            "forces": "pf",
+            "year": 1804,
+            "key": "F major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 55",
+            "title": "Symphony No.3 ('Eroica')",
+            "forces": "orch",
+            "year": 1803,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 56",
+            "title": "Triple Concerto",
+            "forces": "vn vc pf orch",
+            "year": 1804,
+            "key": "C major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 57",
+            "title": "Piano Sonata No.23 ('Apassionata')",
+            "forces": "pf",
+            "year": 1804,
+            "key": "F minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 58",
+            "title": "Piano Concerto No.4",
+            "forces": "pf orch",
+            "year": 1809,
+            "key": "G major",
+            "notes": "arr. for 2vn va vc db pf as Op.58a",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 58a",
+            "title": "Piano Concerto No.4",
+            "forces": "2vn va vc db pf",
+            "year": 1806,
+            "key": "G major",
+            "notes": "arr. of Op.58",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 59, No. 1",
+            "title": "String Quartet No.7",
+            "forces": "2vn va vc",
+            "year": 1806,
+            "key": "F major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 59, No. 2",
+            "title": "String Quartet No.8",
+            "forces": "2vn va vc",
+            "year": 1806,
+            "key": "E minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 59, No. 3",
+            "title": "String Quartet No.9",
+            "forces": "2vn va vc",
+            "year": 1806,
+            "key": "C major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 6",
+            "title": "Sonata for Piano Four Hands in D major",
+            "forces": "pf4h",
+            "year": 1796,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 60",
+            "title": "Symphony No.4",
+            "forces": "orch",
+            "year": 1806,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 61",
+            "title": "Violin Concerto",
+            "forces": "vn orch",
+            "year": 1806,
+            "key": "D major",
+            "notes": "arr for pf orch as Op.61a",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 61a",
+            "title": "Piano Concerto",
+            "forces": "pf orch",
+            "year": 1807,
+            "key": "D major",
+            "notes": "arr. of Op.61",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 62",
+            "title": "Coriolan",
+            "forces": "orch",
+            "year": 1807,
+            "key": "C minor",
+            "notes": "",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 65",
+            "title": "Ah! Perfido",
+            "forces": "sop orch",
+            "year": 1796,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 66",
+            "title": "Variations on 'Ein M\u00e4dchen oder Weibchen' (12)",
+            "forces": "vc pf",
+            "year": 1796,
+            "key": "F major",
+            "notes": "based on an aria from Die Zauberfl\u00f6te, K.620, by Wolfgang Amadeus Mozart",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 67",
+            "title": "Symphony No.5",
+            "forces": "orch",
+            "year": 1806,
+            "key": "C minor",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 68",
+            "title": "Symphony No.6",
+            "forces": "orch",
+            "year": 1808,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 69",
+            "title": "Cello Sonata No.3",
+            "forces": "vc pf",
+            "year": 1808,
+            "key": "A major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 7",
+            "title": "Piano Sonata No.4 ('Grand Sonata')",
+            "forces": "pf",
+            "year": 1796,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 70, No. 1",
+            "title": "Piano Trio ('Ghost')",
+            "forces": "vn vc pf",
+            "year": 1808,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 70, No. 2",
+            "title": "Piano Trio",
+            "forces": "vn vc pf",
+            "year": 1808,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 71",
+            "title": "Sextet",
+            "forces": "2cl 2bn 2hn",
+            "year": 1794,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 72",
+            "title": "Fidelio, opera in 2 acts",
+            "forces": "vv ch orch",
+            "year": 1814,
+            "key": "",
+            "notes": "3rd version",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 72a",
+            "title": "Leonora Overture No.2",
+            "forces": "orch",
+            "year": 1804,
+            "key": "C major",
+            "notes": "1st version of Opp. 72b,, 138 (included in 1st version of Op. 72)",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 72b",
+            "title": "Leonora Overture No.3",
+            "forces": "orch",
+            "year": 1806,
+            "key": "C major",
+            "notes": "2nd version of Opp. 72a, 138 (included in 2nd version of Op. 72)",
+            "type": "Orchestral"
+        },
+        {
+            "id": "Op. 73",
+            "title": "Piano Concerto No.5 ('Emperor')",
+            "forces": "pf orch",
+            "year": 1808,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Concerto"
+        },
+        {
+            "id": "Op. 74",
+            "title": "String Quartet No.10 ('Harp')",
+            "forces": "2vn va vc",
+            "year": 1809,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 75",
+            "title": "Ges\u00e4nge (6):",
+            "forces": "v pf",
+            "year": 1809,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 76",
+            "title": "Variations (6)",
+            "forces": "pf",
+            "year": 1809,
+            "key": "D major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 77",
+            "title": "Fantasia",
+            "forces": "pf",
+            "year": 1809,
+            "key": "G minor",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 78",
+            "title": "Piano Sonata No.24 ('A Th\u00e9r\u00e8se')",
+            "forces": "pf",
+            "year": 1809,
+            "key": "F\u266f major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 79",
+            "title": "Piano Sonata No.25 ('Cuckoo')",
+            "forces": "pf",
+            "year": 1809,
+            "key": "G major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 8",
+            "title": "Serenade",
+            "forces": "vn va vc",
+            "year": 1796,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 80",
+            "title": "Fantasia in C minor ('Choral Fantasia')",
+            "forces": "ch pf orch",
+            "year": 1808,
+            "key": "C minor",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 81a",
+            "title": "Piano Sonata No.26 ('Les adieux')",
+            "forces": "pf",
+            "year": 1810,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 81b",
+            "title": "Sextet in E-flat major",
+            "forces": "2hn 2vn va vc",
+            "year": 1795,
+            "key": "E\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 82",
+            "title": "Arietten und ein Duett (4):",
+            "forces": "v/2vv pf",
+            "year": 1810,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 83",
+            "title": "Ges\u00e4nge (3)",
+            "forces": "v pf",
+            "year": 1810,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 84",
+            "title": "Egmont",
+            "forces": "vv orch",
+            "year": 1810,
+            "key": "",
+            "notes": "",
+            "type": "Stage"
+        },
+        {
+            "id": "Op. 85",
+            "title": "Christus am \u00d6lberge ('Christ on the Mount of Olives')",
+            "forces": "3vv ch orch",
+            "year": 1804,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 86",
+            "title": "Mass",
+            "forces": "4vvch orch",
+            "year": 1807,
+            "key": "C major",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 87",
+            "title": "Trio",
+            "forces": "2ob eh",
+            "year": 1794,
+            "key": "C major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 88",
+            "title": "Das Gl\u00fcck der Freundschaft (\"Der lebt ein Leben wonniglich\")",
+            "forces": "v pf",
+            "year": 1803,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 89",
+            "title": "Polonaise in C major",
+            "forces": "pf",
+            "year": 1814,
+            "key": "C major",
+            "notes": "",
+            "type": "Keyboard"
+        },
+        {
+            "id": "Op. 9, No. 1",
+            "title": "String Trio",
+            "forces": "vn va vc",
+            "year": 1798,
+            "key": "G major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 9, No. 2",
+            "title": "String Trio",
+            "forces": "vn va vc",
+            "year": 1798,
+            "key": "D major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 9, No. 3",
+            "title": "String Trio",
+            "forces": "vn va vc",
+            "year": 1798,
+            "key": "C minor",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 90",
+            "title": "Piano Sonata No.27",
+            "forces": "pf",
+            "year": 1814,
+            "key": "E minor",
+            "notes": "",
+            "type": "Piano Sonata"
+        },
+        {
+            "id": "Op. 91",
+            "title": "Wellingtons Sieg (Wellington's Victory or 'Battle Symphony')",
+            "forces": "orch",
+            "year": 1813,
+            "key": "",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 92",
+            "title": "Symphony No.7",
+            "forces": "orch",
+            "year": 1812,
+            "key": "A major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 93",
+            "title": "Symphony No.8",
+            "forces": "orch",
+            "year": 1812,
+            "key": "F major",
+            "notes": "",
+            "type": "Symphony"
+        },
+        {
+            "id": "Op. 94",
+            "title": "An die Hoffnung (\"Ob ein Gott sei?\")",
+            "forces": "v pf",
+            "year": 1814,
+            "key": "B\u266d minor",
+            "notes": "2nd setting; see Op.32",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 95",
+            "title": "String Quartet No.11 (\"Serioso\")",
+            "forces": "2vn va vc",
+            "year": 1810,
+            "key": "F minor",
+            "notes": "",
+            "type": "String Quartet"
+        },
+        {
+            "id": "Op. 96",
+            "title": "Violin Sonata No.10 (\"Cock-crow\")",
+            "forces": "vn pf",
+            "year": 1812,
+            "key": "G major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 97",
+            "title": "Piano Trio(\"Archduke\")",
+            "forces": "vn va vc",
+            "year": 1812,
+            "key": "B\u266d major",
+            "notes": "",
+            "type": "Chamber"
+        },
+        {
+            "id": "Op. 98",
+            "title": "An die ferne Geliebte:",
+            "forces": "v pf",
+            "year": 1816,
+            "key": "",
+            "notes": "",
+            "type": "Vocal"
+        },
+        {
+            "id": "Op. 99",
+            "title": "Der Mann von Wort (\"Du sagtest, Freund\")",
+            "forces": "v pf",
+            "year": 1816,
+            "key": "G major",
+            "notes": "",
+            "type": "Vocal"
+        }
+    ]
+}
