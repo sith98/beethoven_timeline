@@ -102,7 +102,7 @@ output_works = []
 genres = set()
 for work in works:
     work_type = work["Genre"]
-    if work_type == "Orchestral" and "Symphony" in work["Title"]:
+    if "Symphony No." in work["Title"]:
         work_type = "Symphony"
     if work_type == "Orchestral" and "Concerto" in work["Title"]:
         work_type = "Concerto"
